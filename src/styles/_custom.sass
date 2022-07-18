@@ -1,19 +1,406 @@
-.banner-principal-decorativo
-  &-1
-    animation: float1 3.5s ease-in-out infinite alternate
-    position: absolute
-    top: 40%
-    right: 50%
-  &-2
-    animation: float1 2.8s ease-in-out infinite alternate
-    position: absolute
-    top: 51%
-    right: 30%
+.banner-interno__fondo
+  background-image: url("../assets/curso/images/header/interno.svg") !important
+  background-repeat: no-repeat 
+
+.cs
+  overflow-y: hidden
+
+.titulo-principal__numero 
+  min-width: 45px
+  height: 45px
+  margin-right: 15px
+  position: relative;
+  background-color: #3AE3FE
+
+.h1, .titulo-principal__numero span, .h5, .h6 
+  font-family: "Roboto", sans-serif
+  font-weight: 900
+  line-height: 1.2
+  color: #FFF
+
+.container-top
+  border-radius: 0px 0px 0 0
+.container-bottom
+  border-radius: 0 0 0px 0px  
+
+.color-custom
+	background-color:  #359547
+	&::before
+		background-color: #3AE3FE
+
+.color-custom-2
+	background-color:  #359547
+	&::before
+		background-color: #3AE3FE
+  
+.color-custom-3
+  background-color: #EAEFF3
+
+.color-custom-4 
+  background-color: #E1FBFF
+
+.color-custom-5
+	background-color:  #EAEFF3
+	&::before
+		background-color: #03386E
+
+.color-custom-6
+  background: linear-gradient(180deg, rgba(53,149,71,1) 0%, rgba(8,38,14,1) 100%)
+
+.color-custom-7
+  background-color: #FCC15A
+
+.color-custom-8
+  background-color: #03386E
+
+.color-custom-9
+  background-color: #359547
+
+.jumbotron-1
+  background-color: #fff
+
+.jumbotron-2
+  background-image: url("../assets/curso/images/tema2/back_1.svg") !important
+  background-size: 100%
+  background-repeat: no-repeat !important
+  @media (max-width: 992px)  
+    background-size: cover
+
+.jumbotron-3
+  background-image: url("../assets/curso/images/tema2/back_2.svg") !important
+  background-size: 100%
+  background-repeat: no-repeat !important
+  @media (max-width: 992px)  
+    background-size: cover
+
+.jumbotron-4
+  background-image: url("../assets/curso/images/tema2/back_6.svg") !important
+  background-size: cover
+  background-repeat: no-repeat !important
+
+.jumbotron-5
+  background-image: url("../assets/curso/images/tema2/back_8.svg") !important
+  background-size: cover
+  background-repeat: no-repeat !important
+
+.jumbotron-6
+  background-image: url("../assets/curso/images/tema2/back_7.svg") !important
+  background-size: cover
+  background-repeat: no-repeat !important
+
+.jumbotron-7
+  background-image: url("../assets/curso/images/tema2/back_9.svg") !important
+  background-size: cover
+  background-repeat: no-repeat !important
+
+.jumbotron-8
+  background-image: url("../assets/curso/images/tema2/back_6.svg") !important
+  background-size: cover
+  background-repeat: no-repeat !important
+
+.jumbotron-9
+  background-image: url("../assets/curso/images/tema2/back_8.svg") !important
+  background-size: cover
+  background-repeat: no-repeat !important
+
+.jumbotron-10
+  background-image: url("../assets/curso/images/tema2/back_7.svg") !important
+  background-size: cover
+  background-repeat: no-repeat !important
+
+.jumbotron-11
+  background-image: url("../assets/curso/images/tema2/back_9.svg") !important
+  background-size: cover
+  background-repeat: no-repeat !important
+
+.jumbotron-12
+  background-color: #F6F6F6 !important
+
+.jumbotron-13
+  background-color: #FEF5E5 !important
+
+.jumbotron-14
+  background-color: #E1FBFF !important
+
+.jumbotron-15
+  background-color: #E1EFE3 !important
+
+.jumbotron-16
+  background-color: #DEE4F0 !important
+
+.color-text
+  color: #2B7E3B
+
+.aling
+  justify-content: center
+
+.m-right
+  right: -40% !important
+
+.m-left
+  left: 50% !important
+  
+.titulo-segundo::after 
+  content: ''
+  display: block
+  height: 3px
+  width: 140px
+  border-left: solid 50px
+  border-left-color: currentcolor
+  border-left-color: #3AE3FE
+  background-color: #e8e8e8
+
+.th
+  background-color: #3AE3FE
+.th-1 
+  background-color: #F6F6F6
+.th-2
+  background-color: #FFF
+.mg-top-1
+  margin-top: -50px
+
+.linea-tiempo-d.color-secundario.especial
+  .linea-tiempo-d__item--selected
+    .linea-tiempo-d__item__number
+      background-color: #BFF9EF
+      color: $color-sistema-texto
+    .linea-tiempo-d__item__content
+      background-color: #BFF9EF
+      color: #000
+
+.linea-tiempo-d__item__content__title:hover 
+  font-weight: 700
+  background-color: #BFF9EF
+
+.linea-tiempo-d__item--selected .linea-tiempo-d__item__number 
+  font-weight: 700
+  background-color: #DCDFEE
+
+.linea-tiempo-d__item__content__title 
+  display: flex
+  align-items: center
+  height: 63px
+  cursor: pointer
 
 
-@keyframes float1
-  0%
-    transform: translateY(20px)
+.linea-tiempo-c__header__btn, .linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right, .pasos-b__header__btn--left, .pasos-b__header__btn--right 
+  min-width: 50px
+  max-width: 50px
+  min-height: 50px
+  max-height: 50px
+  flex: auto
+  border-radius: 50%
+  border: 2px solid #cccccc
+    border-top-color: rgb(204, 204, 204)
+    border-right-color: rgb(204, 204, 204)
+    border-bottom-color: rgb(204, 204, 204)
+    border-left-color: rgb(204, 204, 204)
+  background-color: #FCC15A
+  position: relative
+  cursor: pointer
+  transition: border-color 0.2s ease-in-out
 
-  100%
-    transform: translateY(0px)
+.tabs-c.color-acento-contenido .tabs-c__tab--active
+  border-bottom-color: #3AE3FE!important
+  span 
+    font-weight: 700
+  &::before
+    border-top-color: #3AE3FE
+
+.tabs-c__content-item
+  background-color: #FEF5E5
+
+.tabs-c__content-item-1 
+  background-color: #FFF
+
+.tabs-c__tab--active 
+  border-bottom: 4px solid !important
+    border-bottom-color: currentcolor
+  background-color: #EAEFF3 !important
+
+.modal-back
+  background-color:#DDE1E5
+
+.back-tab
+  background-color: #F5FEFF
+  border-radius: 20px 
+  border: 2px solid #3AE3FE !important 
+
+.tabs-a__tab
+  background-color: #F6F6F6
+
+.bg_grad-02
+  background-color: #E1FBFF
+  background-repeat: no-repeat
+  background-size: cover
+  @media (max-width: 992px)
+    width: 390px
+    margin-left: -24px
+
+.bg_grad-03
+  background-color: #E5ECEB
+  background-repeat: no-repeat
+  background-size: cover
+  @media (max-width: 992px)
+    width: 390px
+    margin-left: -24px
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs 
+  width: 50px
+  height: 50px
+  background-color: #FFE2AF
+  border-radius: 50%
+  background-repeat: no-repeat
+  background-size: 16px 24px
+  background-position: center
+  border: 1px solid #D8ECFF
+  top: 52%
+  z-index: 10000
+  opacity: 0.7
+  box-shadow: 0 0 0px 0px rgba(0, 0, 0, 0.3)
+  transition: opacity 0.3s ease-in-out, box-shadow 0.3s ease-in-out
+  cursor: pointer
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs 
+  width: 50px
+  height: 50px
+  background-color: #F4F4F5
+  border-radius: 50%
+  background-repeat: no-repeat
+  background-size: 16px 24px
+  background-position: center
+  border: 1px solid #D8ECFF
+  top: 52%
+  z-index: 10000
+  opacity: 0.7
+  box-shadow: 0 0 0px 0px rgba(0, 0, 0, 0.3)
+  transition: opacity 0.3s ease-in-out, box-shadow 0.3s ease-in-out
+  cursor: pointer
+
+.slyder-a__bullets__item--active
+  background-color: #1B3F5E !important
+
+.slyder-a__bullets__item
+  background-color: #A1BACE
+
+.slyder-a__bullets 
+  bottom: 25px !important
+  @media (max-width: 992px)
+    margin-bottom: -20px !important
+   
+.slyder-a__tipo-a .slyder-a__btn--atrs 
+  transform: translateY(-50%) rotate(90deg)
+  left: -7px
+
+.slyder-a__tipo-a .slyder-a__btn--sigt 
+  transform: translateY(-50%) rotate(-90deg)
+  right: -7px
+
+.slyder-a__tipo-a .slyder-a__btn--sigt 
+  transform: translateY(-50%) rotate(-90deg)
+  @media (max-width: 992px)
+    right: 2px
+    margin-top: 80px
+
+.slyder-a__tipo-a .slyder-a__btn--atrs 
+  transform: translateY(-50%) rotate(90deg)
+  @media (max-width: 992px)
+    left: 2px
+    margin-top: 80px
+
+.acordion
+  .tarjeta--gris
+    background-color: #E1EFE3
+    &.acordion__activo
+      background-color: #FEF5E5
+    
+.acordion__accion__btn--a 
+  background-color: #FCC15A
+  box-shadow: 0px 3px 5px 0px rgba(17, 30, 97, 0.3)
+
+.text
+ font-size: 13px
+.text-1
+ font-size: 12px
+.text-2
+ font-size: 14.5px
+
+.th
+  background-color: #3AE3FE
+.th-1 
+  background-color: #F6F6F6
+.th-2
+  background-color: #FFF
+
+.list 
+  width: 100%
+  display: flex !important
+  &__item 
+    &__bulletNumber 
+      position: relative
+      width: 30px
+      height: 30px
+      margin-right: 1rem
+      text-align: center
+      border-radius: 50%
+      background-color: #FF4D9B
+      span 
+        color: white
+        font-weight: 700
+        font-size: small
+        position: absolute
+        top: 50%
+        left: 50%
+        transform: translate(-50%, -50%)
+      
+    
+    &__number 
+      position: relative
+      margin-right: 1rem
+      span 
+        color:orange
+        font-size: 15pt
+        font-weight: 700
+        line-height: 1.2
+      
+    
+    &__icon 
+      position: relative
+      width: 15px
+      margin-right: 0.65rem
+      img 
+        width: 15px
+        vertical-align: middle
+      
+    
+  
+  &__txt 
+    p:first-child,
+    h3:first-child 
+      margin-top: 0px
+
+.m-top      
+  margin-top: -7px !important
+
+.modal-a__content 
+  position: fixed
+  top: 50%
+  left: 50%
+  background-color:#DDE1E5
+  width: 90%
+  max-width: 1300px
+  max-height: 100vh
+  overflow-y: auto
+  z-index: 110001
+  border-radius: 20px
+  transform: translate(-50%, -50%) scale(0)
+  transition: transform 0.3s ease-in-out
+
+.tabs-c.color-acento-contenido .tabs-c__tab--active::before 
+  border-top-color: #FCC15A
+
+.tabs-c.color-acento-contenido .tabs-c__tab--active 
+  border-bottom-color: #FCC15A !important
+
+
+

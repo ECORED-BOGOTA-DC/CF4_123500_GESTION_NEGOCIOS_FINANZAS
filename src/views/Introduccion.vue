@@ -2,13 +2,18 @@
 .curso-main-container.introduccion
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-  
-    .titulo-principal.color-acento-contenido
+    .titulo-principal
       .titulo-principal__numero
         span
           i.fas.fa-info
       h1 Introducción
     
+    p.mb-3 Para los emprendedores de la micro, pequeña y mediana empresa, como para todas las personas jurídicas creadas en Colombia, indistintamente del objeto social que desarrollen, como también las personas naturales, resulta indispensable tener conocimientos relacionados tanto con la ciencia contable, como con los aspectos tributarios en cada sector de la economía colombiana en que se desempeñe. Se debe ver un video que específica estos temas dando una introducción de lo que será importante tratar como temática:
+    
+    figure.mb-5
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        
 </template>
 
 <script>
