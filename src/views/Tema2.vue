@@ -106,45 +106,31 @@
 
     p.mb-3 Una hoja electrónica financiera, básicamente es un recurso importante para las personas naturales o jurídicas, que permite realizar los análisis de información de acuerdo a las necesidades administrativas, en forma de matriz, cuyo objetivo, es organizar datos numéricos y realizar las operaciones con ellos  y si así se considera, realizar monitoreo permanente y actualización de la información, que resulte fundamental para soportar la toma de decisiones en las organizaciones o para los usuarios de la información a nivel general.
 
-    p.mb-5 Este software financiero, se basa en un sistema de celdas tanto horizontales como verticales, que, al combinarse, se convierten en distintas filas o columnas. Sabiendo ya esto, se invita a revisar el siguiente recurso donde se muestran las diferentes funciones de las hojas electrónicas: 
+    p.mb-5 Este <i>software</i> financiero, se basa en un sistema de celdas tanto horizontales como verticales, que, al combinarse, se convierten en distintas filas o columnas. Sabiendo ya esto, se invita a revisar el siguiente recurso donde se muestran las diferentes funciones de las hojas electrónicas: 
 
     .tarjeta.bg_grad-03.p-4.mb-5(data-aos="zoom-in-up")
       SlyderA(tipo="b")
         .row.justify-content-center.align-items-star.p-5
           .col-lg-4
             h3.mb-5 Las hojas electrónicas financieras
-            p.mb-3 Se utilizan permanentemente en las empresas por parte de los administradores, para medir la gestión organizacional y de negocios en general. Dentro de los múltiples beneficios de esta herramienta, encontramos por ejemplo que, a falta de software contable, podemos llevar la contabilidad de los negocios o empresas, podemos crear bases de datos, se pueden formular y realizar cálculos aritméticos, se pueden generar reportes gerenciales para juntas directivas, graficas, análisis financieros, análisis estadísticos, entre otras virtudes de esta herramienta ofimática.
+            p.mb-3 Se utilizan permanentemente en las empresas por parte de los administradores, para medir la gestión organizacional y de negocios en general. Dentro de los múltiples beneficios de esta herramienta, encontramos por ejemplo que, a falta de <i>software</i> contable, podemos llevar la contabilidad de los negocios o empresas, podemos crear bases de datos, se pueden formular y realizar cálculos aritméticos, se pueden generar reportes gerenciales para juntas directivas, graficas, análisis financieros, análisis estadísticos, entre otras virtudes de esta herramienta ofimática.
           .col-lg-8
             img(src="@/assets/curso/images/tema2/img_6.png").mb-3
         .row.justify-content-center.align-items-star.p-5
           .col-lg-4
-            h3.mb-5 <i>Softwares Contables</i>
-            p.mb-3 Siendo esta ayuda lo suficientemente práctica, con el pasar de los años muy a pesar de los avances tecnológicos y la creación de software muy completos y diseñados inclusos a las medidas de las necesidades de las personas naturales y jurídicas, en donde se consideran en detalle los procesos particulares, aun así, este tipo de software no pierden vigencia en las empresas, especialmente porque también se han venido actualizando y complementando, conservando la preferencia de los usuarios. 
+            h3.mb-5 <i>Softwares contables</i>
+            p.mb-3 Siendo esta ayuda lo suficientemente práctica, con el pasar de los años muy a pesar de los avances tecnológicos y la creación de <i>software</i> muy completos y diseñados inclusos a las medidas de las necesidades de las personas naturales y jurídicas, en donde se consideran en detalle los procesos particulares, aun así, este tipo de <i>software</i> no pierden vigencia en las empresas, especialmente porque también se han venido actualizando y complementando, conservando la preferencia de los usuarios. 
           .col-lg-8
             img(src="@/assets/curso/images/tema2/img_7.png").mb-3
 
         .row.justify-content-center.align-items-star.p-5
           .col-lg-4
-            h3.mb-5 Excel en la Contabilidad
-            p.mb-3 En conclusión, Microsoft Excel, es la hoja de cálculo más utilizada a nivel mundial por parte de las empresas y en esta se identifican las siguientes partes más conocidas.
-          .col
-            img(src="@/assets/curso/images/tema2/img_8.png").mb-3
-
-        .row.justify-content-center.align-items-star.p-5
-          .col-lg-4
-            h3.mb-5 <i>Softwares Contables</i>
-            p.mb-3 Siendo esta ayuda lo suficientemente práctica, con el pasar de los años muy a pesar de los avances tecnológicos y la creación de software muy completos y diseñados inclusos a las medidas de las necesidades de las personas naturales y jurídicas, en donde se consideran en detalle los procesos particulares, aun así, este tipo de software no pierden vigencia en las empresas, especialmente porque también se han venido actualizando y complementando, conservando la preferencia de los usuarios. 
-          .col-lg-8
-            img(src="@/assets/curso/images/tema2/img_7.png").mb-3
-
-        .row.justify-content-center.align-items-star.p-5
-          .col-lg-4
-            h3.mb-5 Excel en la Contabilidad
+            h3.mb-5 Excel en la contabilidad
             p.mb-3 En conclusión, Microsoft Excel, es la hoja de cálculo más utilizada a nivel mundial por parte de las empresas y en esta se identifican las siguientes partes más conocidas.
           .col
             img(src="@/assets/curso/images/tema2/img_8.png").mb-3
         .row.justify-content-center.align-items-star.p-5
-          h3.mb-5 Funciones particulares de Excels
+          h3.mb-5 Funciones particulares de Excel
           
           .col-lg-4.d-flex
             .jumbotron-4.p-3

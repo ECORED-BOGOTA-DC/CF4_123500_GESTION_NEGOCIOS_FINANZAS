@@ -48,7 +48,7 @@
             figure
               img(src="@/assets/curso/images/tema3/ico_3.svg",  alt='', style="width:160px; display:block; margin:auto 0 ;")
           .col-md-6.lg-7
-            p <b>Paso No. 3.</b> En este mismo sentido existen impuestos del orden municipal que para cada uno de ellos existe un estatuto tributario los cuales establecen los tributos en cada caso, y que es responsabilidad de cada contribuyente, documentar sobre los tributos a que se haría responsable si eventualmente decidiera realizar alguna actividad económica en una región especifica. 
+            p <b>Paso No. 3.</b> En este mismo sentido existen impuestos del orden municipal que para cada uno de ellos existe un estatuto tributario los cuales establecen los tributos en cada caso, y que es responsabilidad de cada contribuyente, documentar sobre los tributos a que se haría responsable si eventualmente decidiera realizar alguna actividad económica en una región especÍfica. 
         .row.justify-content-center.align-items-center(titulo="Paso 4")
           .col-6.col-lg-2.mb-4.mb-lg-0
             figure
@@ -61,7 +61,7 @@
             figure
               img(src="@/assets/curso/images/tema3/ico_5.svg",  alt='', style="width:160px; display:block; margin:auto 0 ;")
           .col-md-6.lg-7
-            p <b>Paso No. 5.</b> El sistema tributario en Colombia, tiene como base fundamental que las personas naturales o jurídicas que realicen una actividad de comercio o cualquier otra actividad que este gravada con cualquier tipo de tributo tanto nacional, departamental o municipal, esta persona responsable, debe liquidar y pagar de manera voluntaria ante la entidad competente los correspondientes impuestos. 
+            p <b>Paso No. 5.</b> El sistema tributario en Colombia, tiene como base fundamental que las personas naturales o jurídicas que realicen una actividad de comercio o cualquier otra actividad que esté gravada con cualquier tipo de tributo tanto nacional, departamental o municipal, esta persona responsable, debe liquidar y pagar de manera voluntaria ante la entidad competente los correspondientes impuestos. 
                   
         .row.justify-content-center.align-items-center(titulo="Paso 6")
           .col-6.col-lg-2.mb-4.mb-lg-0
@@ -77,7 +77,7 @@
               img(src="@/assets/curso/images/tema3/ico_7.svg",  alt='', style="width:160px; display:block; margin:auto 0 ;")
            
           .col-md-6.lg-7
-            p <b>>Paso No. 7.</b> Los responsables de los impuestos en Colombia, pueden ser desde personas naturales, hasta micros, pequeñas o medianas empresas, entidades del régimen especial en renta, y demás personas jurídicas que realicen actividades que den origen a los impuestos.
+            p <b>Paso No. 7.</b> Los responsables de los impuestos en Colombia, pueden ser desde personas naturales, hasta micros, pequeñas o medianas empresas, entidades del régimen especial en renta, y demás personas jurídicas que realicen actividades que den origen a los impuestos.
 
 
         .row.justify-content-center.align-items-center(titulo="Paso 8")
@@ -87,6 +87,8 @@
 
           .col-md-6.lg-7
             p <b>Paso No. 8.</b> Por ello es importante previo a la constitución de alguna sociedad, o emprender cualquier negocio, asesorarse sobre el alcance de los compromisos que se adquieren en el desarrollo de estas actividades de comercio, recordemos que desconocer la norma no excusa la responsabilidad de los declarantes.
+    
+    p.mb-5 También es importante conocer la trazabilidad de los compromisos estatales, fechas establecidas para declarar, formas de pago, sanciones a las cuales se pueden enfrentar al incumplir estas responsabilidades, alivios tributarios, incentivos o alivios de tipo tributario y demás aspectos que básicamente se compilan en las normatividades ya mencionadas. En Colombia los tributos se clasifican en tres categorías (ver figura 4):
     
     .row.justify-content-center.align-items-center
       .col-lg-8
@@ -165,7 +167,7 @@
                         td.th-1  Para las personas jurídicas la tarifa para el año 2022 será del 35%.
                         td.th-1  Para el caso de las personas naturales la tarifa es progresiva, es decir, que entre más alta la renta liquida gravable del contribuyente, mayor será el impuesto a cargo, y viceversa.
                       tr 
-                        td.th-2 Sin embargo se debe tener en cuenta que la tarifa puede cambiar año a año de conformidad con lo que se puedan regular por parte del estado (reformas tributarias).
+                        td.th-2 Sin embargo se debe tener en cuenta que la tarifa puede cambiar año a año de conformidad con lo que se puede regular por parte del estado (reformas tributarias).
                         td.th-2 La más reciente reforma tributaria del año 2021 no modificó las tarifas de renta aplicables a las personas naturales.
                       tr 
                         td.th-1   
@@ -184,6 +186,15 @@
                 p.mb-0 Este impuesto grava las utilidades que se perciben por parte de los inversionistas de la sociedad a una tarifa del 10%, después de las 300 UVT (Unidad de Valor Tributario).
               .col-lg-8
                 img(src='@/assets/curso/images/tema3/fig_5.svg')
+
+          div(titulo="Impuestos a las Ganancias Ocasionales")
+            .row.align-items-star.justify-content-center.p-4
+              .col-lg-5
+                p.mb-3 Corresponden a las ganancias provenientes de actividades no contempladas en las operaciones ordinarias de las empresas.
+                
+                p.mb-0 Es decir, ingresos que resulten ocnpersonas aturales asi como onalmente más no de manera constante tanto para las para las personas jurídicas. Las tarifas son del 10% y del 20% según los siguientes criterios:
+              .col-lg-7
+                img(src='@/assets/curso/images/tema3/fig_9.svg')
 
           div(titulo="Gravamen a los Movimientos Financieros")
             .row.align-items-star.justify-content-center.p-4
@@ -212,7 +223,7 @@
             figure
               img(src='@/assets/curso/images/tema3/ico_9.svg', alt="", style="width:150px; display:block; margin:0 auto;")    
           .h2.text-center.text-white.mt-5 Impuestos de Industria y Comercio (ICA)
-          p.text-center.text-white Este impuesto grava la totalidad de las actividades industriales, comerciales o de servicios que realiza un contribuyente, incluso sin tener establecimiento de comercio, y que cada municipio o distrito define como gravado o no, las tarifas más comunes van desde el 1 x 100 hasta del 10 x 1000      y la base gravable, la constituyen el total de los ingresos de la persona natural o jurídica.
+          p.text-center.text-white Este impuesto grava la totalidad de las actividades industriales, comerciales o de servicios que realiza un contribuyente, incluso sin tener establecimiento de comercio, y que cada municipio o distrito define como gravado o no, las tarifas más comunes van desde el 1 x 100 hasta del 10 x 1000 y la base gravable, la constituyen el total de los ingresos de la persona natural o jurídica.
 
       .col-md.tarjeta.color-custom-9.p-4(data-aos="fade-left")
         .row.justify-content-center.p-5.mb-3
@@ -220,7 +231,7 @@
             figure
               img(src='@/assets/curso/images/tema3/ico_10.svg', alt="", style="width:150px; display:block; margin:0 auto;")
           .h2.text-center.text-white.mt-5  Impuesto predial
-          p.text-center.text-white Este impuesto se recauda anualmente por parte de los municipios en donde se tengan la propiedad o el dominio de un bien inmueble. De la misma manera, las tarifas son establecidas individualmente por cada municipio o distrito, y se consagran en el Estatuto Tributario municipal de cada región.
+          p.text-center.text-white Este impuesto se recauda anualmente por parte de los municipios en donde se tenga la propiedad o el dominio de un bien inmueble. De la misma manera, las tarifas son establecidas individualmente por cada municipio o distrito, y se consagran en el Estatuto Tributario Municipal de cada región.
 
     Separador 
 
@@ -233,7 +244,7 @@
       .py-4.py-md-4(titulo="Las contribuciones")
         .row.justify-content-center.p-5
           .col-12.col-md-7.mb-3.mb-md-0
-            p.mb-0 Un ejemplo claro de contribución es la valorización, que se genera por normalmente por efectos a la realización de obras públicas cerca de las construcciones o edificaciones poseídas por la persona natural o jurídica, así las cosas, se interpreta que esta obra genera un mayor valor sobre el activo poseído, y por consiguiente se configura la contribución por valorización.
+            p.mb-0 Son considerados como tributos obligatorios, aunque no manejan la misma dinámica de los impuestos.
           .col-12.col-md-5.mb-3.mb-md-0
             img(src="@/assets/curso/images/tema3/img_2.png").m-auto
 
@@ -247,14 +258,14 @@
       .py-3.py-md-4(titulo="Tasas")
         .row.justify-content-center.align-items-center.p-4
           .col-12.col-md-7.mb-3.mb-md-0
-            p.mb-0 Un ejemplo claro de contribución es la valorización, que se genera por normalmente por efectos a la realización de obras públicas cerca de las construcciones o edificaciones poseídas por la persona natural o jurídica, así las cosas, se interpreta que esta obra genera un mayor valor sobre el activo poseído, y por consiguiente se configura la contribución por valorización.
+            p.mb-0 Son aportes que se cancelan a las entidades estatales por concepto de remuneración por los servicios que este presta, normalmente la obligación surge es producto de decisiones personales, por ello, se consideran pagos voluntarios.
           .col-12.col-md-5.mb-3.mb-md-0
             img(src="@/assets/curso/images/tema3/img_4.png").m-auto
         
       .py-3.py-md-4(titulo="Ejemplo tasas")
         .row.justify-content-center.align-items-center.p-4
           .col-12.col-md-7.mb-3.mb-md-0
-            p.mb-0 Un ejemplo claro de contribución es la valorización, que se genera por normalmente por efectos a la realización de obras públicas cerca de las construcciones o edificaciones poseídas por la persona natural o jurídica, así las cosas, se interpreta que esta obra genera un mayor valor sobre el activo poseído, y por consiguiente se configura la contribución por valorización.
+            p.mb-0 Como ejemplo de tasas encontramos los peajes, sobretasa a la gasolina, entre otros servicios que presta en estado. En el caso de los municipios encontramos las tasas que se cobran por concepto de alumbrado público, aseo, entre otras.
           .col-12.col-md-5.mb-3.mb-md-0
             img(src="@/assets/curso/images/tema3/img_5.png").m-auto
 

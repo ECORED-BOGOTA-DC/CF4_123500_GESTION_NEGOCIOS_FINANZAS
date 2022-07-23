@@ -35,13 +35,12 @@
       .col-lg-10(data-aos="fade-left") 
           img.mt-3(src='@/assets/curso/images/tema1/fig_1.svg')
 
-
+    p.mb-3 Estos registros se deben realizar en los momentos en que se presenten; es decir, en orden cronológico y siguientes a las regulaciones establecidas por el gobierno nacional, para el caso de Colombia el marco normativo establecido se estipula en el decreto único reglamentario 1625 de 2016 y las Normas Internacionales de Información Financiera. La contabilidad llevada en debida forma permite una herramienta clave en pro de obtener mejores resultados financieros y mejoras en la gestión de los administradores.
+    
     Separador
 
     #t_1_1.titulo-segundo
       .h2 1.1 Cuentas contables
-
-    p.mb-3 Estos registros se deben realizar en los momentos en que se presenten; es decir, en orden cronológico y siguientes a las regulaciones establecidas por el gobierno nacional, para el caso de Colombia el marco normativo establecido se estipula en el decreto único reglamentario 1625 de 2016 y las Normas Internacionales de Información Financiera. La contabilidad llevada en debida forma permite una herramienta clave en pro de obtener mejores resultados financieros y mejoras en la gestión de los administradores.
 
     .row.justify-content-center.align-items-center
       .col-lg-12
@@ -95,7 +94,7 @@
           p.mb-0 Cuando se habla de la naturaleza de las cuentas contables, se considera la forma habitual en que se incrementa el saldo de esta según su clase y tipo de cuenta, es decir, las cuentas de naturaleza débito siempre aumentan por la columna izquierda y disminuye por el lado derecho de esta, de tal forma que al neto de estos movimientos finalmente debe preservar un mayor valor por el lado izquierdo. Tales cuentas son los activos, los gastos, los costos (de venta, de producción o de operación) y si se manejaran las cuentas de orden acreedoras en la contabilidad de las empresas. Por su parte, las cuentas de naturaleza crédito, aumentan siempre por la columna derecha y disminuyen por el lado izquierdo, conservando siempre un mayor valor en el costado derecho, en este grupo encontramos, los pasivos, las cuentas de capital o patrimonio y dado el caso las cuentas de orden deudoras
     
 
-    p.mb-3 Un ejemplo muy sencillo de cuentas de naturaleza debito es el siguiente:
+    p.mb-3 Un ejemplo muy sencillo de cuentas de naturaleza débito es el siguiente:
 
     ul.lista-ul--color.mb-5
       li 
@@ -107,7 +106,7 @@
         thead
           tr
             th Nombre de la cuenta
-            th Debito
+            th Débito
             th Crédito
         tbody
           tr
@@ -119,7 +118,7 @@
             td
             td 100.000
 
-    p.mb-5 En este ejemplo se encuentran dos cuentas del activo de naturaleza débito, la caja aumenta debido a que ingreso dinero a la cuenta. Por su parte la cuenta muebles y enseres disminuye debido a que el escritorio sale del inventario de la compañía.
+    p.mb-5 En este ejemplo se encuentran dos cuentas del activo de naturaleza débito, la caja aumenta debido a que ingresó dinero a la cuenta. Por su parte la cuenta muebles y enseres disminuye debido a que el escritorio sale del inventario de la compañía.
 
     ul.lista-ul--color.mb-5
       li 
@@ -131,7 +130,7 @@
         thead
           tr
             th Nombre de la cuenta
-            th Debito
+            th Débito
             th Crédito
         tbody
           tr
@@ -160,7 +159,8 @@
           .col-12.col-md-7.mb-3.mb-md-0
             img(src="@/assets/curso/images/tema1/img_6.svg").m-auto
           .col-12.col-md-5.mb-3.mb-md-0
-            p.mb-0 Por su parte, las cuentas nominales que integran el estado de resultado integral, se consideran así, porque se cierran cada año al final del periodo contable, de igual manera al inicio del nuevo periodo, estas cuentas se inician con saldo cero y así sucesivamente durante la totalidad de los periodos en que opere la compañía. En este grupo encontramos los ingresos, los costos y los gastos.
+            p.mb-3 Por su parte, las cuentas nominales que integran el estado de resultado integral, se consideran así, porque se cierran cada año al final del período contable, de igual manera al inicio del nuevo periodo, estas cuentas se inician con saldo cero y así sucesivamente durante la totalidad de los períodos en que opere la compañía. En este grupo encontramos los ingresos, los costos y los gastos.
+            p.mb-0 Finalmente están los Otros Resultados Integrales (ORI), que representan las utilidades o perdidas que no se reconocen por parte de la administración en el ejercicio contable de la organización. 
 
       .py-3.py-md-4(titulo="Estado de Resultado Integral")
         .row.justify-content-center.align-items-center.p-4
@@ -213,77 +213,77 @@
           .col-12.col-md-3.mb-3.mb-md-0
             img.mt-3(src="@/assets/curso/images/tema1/ico_1.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
           .col-12.col-md-9.mb-3.mb-md-0
-            p.mb-3 <b>Entidad:</b> La entidad o ente, contiene derechos y obligaciones que se encuentran detalladas en el marco normativo contable (NIIF) y que son reconocidos por los organismos de control. Por tal razón, la empresa debe ser tratada como un ente independiente, en donde incluso a sus propietarios se les reconoce como terceros.
+            p.mb-3 <b>Entidad:</b> la entidad o ente, contiene derechos y obligaciones que se encuentran detalladas en el marco normativo contable (NIIF) y que son reconocidos por los organismos de control. Por tal razón, la empresa debe ser tratada como un ente independiente, en donde incluso a sus propietarios se les reconoce como terceros.
           hr
           .col-12.col-md-3.mb-3.mb-md-0
             img.mt-3(src="@/assets/curso/images/tema1/ico_2.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
           .col-12.col-md-9.mb-3.mb-md-0
-            p.mb-3 <b>Equidad:</b> Teniendo en cuenta que dentro de las compañías se manejan múltiples intereses, entre ellos se tiene por ejemplo los dueños, los proveedores, acreedores, deudores, sector financiero, administradores, el estado, los organismos de control, entre otros. En ese sentido, la equidad establece que se debe reflejar la información financiera de las compañías sin ningún tipo de sesgo que pudiera favorecer a algún tercero; es decir, que se reflejan todos los intereses relacionados con el desarrollo de la económica.dos por los organismos de control. Por tal razón, la empresa debe ser tratada como un ente independiente, en donde incluso a sus propietarios se les reconoce como terceros.
+            p.mb-3 <b>Equidad:</b> teniendo en cuenta que dentro de las compañías se manejan múltiples intereses, entre ellos se tiene por ejemplo los dueños, los proveedores, acreedores, deudores, sector financiero, administradores, el estado, los organismos de control, entre otros. En ese sentido, la equidad establece que se debe reflejar la información financiera de las compañías sin ningún tipo de sesgo que pudiera favorecer a algún tercero; es decir, que se reflejan todos los intereses relacionados con el desarrollo de la económica.dos por los organismos de control. Por tal razón, la empresa debe ser tratada como un ente independiente, en donde incluso a sus propietarios se les reconoce como terceros.
           hr
           .col-12.col-md-3.mb-3.mb-md-0
             img.mt-3(src="@/assets/curso/images/tema1/ico_3.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
           .col-12.col-md-9.mb-3.mb-md-0
-            p.mb-3 <b>Partida doble:</b> La base fundamental de la partida doble, indica que en la contabilidad no puede haber un movimiento que afecte dos cuentas de la misma naturaleza (debito, o crédito), el ejercicio consiste en registrar algún valor en al menos dos cuentas, una de cada naturaleza para conservar el equilibrio de la partida doble.
+            p.mb-3 <b>Partida doble:</b> la base fundamental de la partida doble, indica que en la contabilidad no puede haber un movimiento que afecte dos cuentas de la misma naturaleza (débito, o crédito), el ejercicio consiste en registrar algún valor en al menos dos cuentas, una de cada naturaleza para conservar el equilibrio de la partida doble.
 
         .row.justify-content-center.align-items-center.p-5
           .col-12.col-md-3.mb-3.mb-md-0
             img.mt-3(src="@/assets/curso/images/tema1/ico_4.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
           .col-12.col-md-9.mb-3.mb-md-0
-            p.mb-3 <b>Bienes económicos:</b> La contabilidad se lleva de conformidad en movimientos económicos realizadas por los entes, todos estos con conservando un sentido económico. Es decir, que en todo registro se debe asignar determinar un valor monetario, el cual debe tener relación con el mercado en que la empresa funciona.
+            p.mb-3 <b>Bienes económicos:</b> la contabilidad se lleva de conformidad en movimientos económicos realizadas por los entes, todos estos con conservando un sentido económico. Es decir, que en todo registro se debe asignar determinar un valor monetario, el cual debe tener relación con el mercado en que la empresa funciona.
           hr
           .col-12.col-md-3.mb-3.mb-md-0
             img.mt-3(src="@/assets/curso/images/tema1/ico_5.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
           .col-12.col-md-9.mb-3.mb-md-0
-            p.mb-3 <b>Moneda común denominador:</b> Las operaciones que realiza una empresa pueden realizarse en distintas monedas. Sin embargo, es la empresa quien está obligada a determinar el tipo de moneda en la que presentará su información financiera. 
+            p.mb-3 <b>Moneda común denominador:</b> las operaciones que realiza una empresa pueden realizarse en distintas monedas. Sin embargo, es la empresa quien está obligada a determinar el tipo de moneda en la que presentará su información financiera. 
           hr
           .col-12.col-md-3.mb-3.mb-md-0
             img.mt-3(src="@/assets/curso/images/tema1/ico_6.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
           .col-12.col-md-9.mb-3.mb-md-0
-            p.mb-3 <b>Negocio en marcha:</b> Cuando se constituye una empresa, se determina la duración en años de la misma, sin embargo, este tiempo establecido para que perdure la empresa, está condicionado a que la información financiera arrojada año tras año en las empresas, muestre una proyección a la misma. De lo contrario, se deberán tomar decisiones que pueden ir hasta la liquidación o extinción de las compañías.
+            p.mb-3 <b>Negocio en marcha:</b> cuando se constituye una empresa, se determina la duración en años de la misma, sin embargo, este tiempo establecido para que perdure la empresa, está condicionado a que la información financiera arrojada año tras año en las empresas, muestre una proyección a la misma. De lo contrario, se deberán tomar decisiones que pueden ir hasta la liquidación o extinción de las compañías.
          
 
         .row.justify-content-center.align-items-center.p-5
           .col-12.col-md-3.mb-3.mb-md-0
             img.mt-3(src="@/assets/curso/images/tema1/ico_7.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
           .col-12.col-md-9.mb-3.mb-md-0
-            p.mb-3 <b>Valuación al costo:</b> Lo que nos indica este principio de contabilidad, es que se debe valuar al costo o al valor del costo de adquisición o producción, al momento de reconocer las operaciones financieras del negocio.
+            p.mb-3 <b>Valuación al costo:</b> lo que nos indica este principio de contabilidad, es que se debe valuar al costo o al valor del costo de adquisición o producción, al momento de reconocer las operaciones financieras del negocio.
           hr
           .col-12.col-md-3.mb-3.mb-md-0
             img.mt-3(src="@/assets/curso/images/tema1/ico_8.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
           .col-12.col-md-9.mb-3.mb-md-0
-            p.mb-3 <b>Periodo:</b> Los analistas de la información financiera de las compañías deben conocer el periodo o la fecha en que se presentan los estados financieros, esta puede ser mensual para efectos de seguimientos de resultados de la administración, sin embargo al final de cada año se deben presentar ante el máximo órgano para ser aprobados.  
+            p.mb-3 <b>Período:</b> los analistas de la información financiera de las compañías deben conocer el período o la fecha en que se presentan los estados financieros, esta puede ser mensual para efectos de seguimientos de resultados de la administración, sin embargo al final de cada año se deben presentar ante el máximo órgano para ser aprobados.  
           hr
           .col-12.col-md-3.mb-3.mb-md-0
             img.mt-3(src="@/assets/curso/images/tema1/ico_9.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
           .col-12.col-md-9.mb-3.mb-md-0
-            p.mb-3 <b>Devengado:</b> El principio devengado determina el momento o la fecha en la que nace una obligación o un derecho para la organización.
+            p.mb-3 <b>Devengado:</b> el principio devengado determina el momento o la fecha en la que nace una obligación o un derecho para la organización.
 
         .row.justify-content-center.align-items-center.p-5
           .col-12.col-md-3.mb-3.mb-md-0
             img.mt-3(src="@/assets/curso/images/tema1/ico_10.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
           .col-12.col-md-9.mb-3.mb-md-0
-            p.mb-3 <b>Objetividad:</b> El registro contable de las transacciones económicas del ente, deber manejasen en los libros de contabilidad, libres de intereses de un particular. Este principio, implica reconocer las operaciones lo más ajustadas a la realidad posibles, de tal forma, que no existan favorecimientos a ningún tercero.
+            p.mb-3 <b>Objetividad:</b> el registro contable de las transacciones económicas del ente, deber manejasen en los libros de contabilidad, libres de intereses de un particular. Este principio, implica reconocer las operaciones lo más ajustadas a la realidad posibles, de tal forma, que no existan favorecimientos a ningún tercero.
           hr
           .col-12.col-md-3.mb-3.mb-md-0
             img.mt-3(src="@/assets/curso/images/tema1/ico_11.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
           .col-12.col-md-9.mb-3.mb-md-0
-            p.mb-3 <b>Realización:</b> Todo hecho económico conlleva a un registro contable, en donde se reconoce o una obligación o un derecho para la compañía. La realización de estos, implica reconocer o realizar un ingreso, costo o gasto, tal es el caso de los anticipos. 
+            p.mb-3 <b>Realización:</b> todo hecho económico conlleva a un registro contable, en donde se reconoce o una obligación o un derecho para la compañía. La realización de estos, implica reconocer o realizar un ingreso, costo o gasto, tal es el caso de los anticipos. 
           hr
           .col-12.col-md-3.mb-3.mb-md-0
             img.mt-3(src="@/assets/curso/images/tema1/ico_12.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
           .col-12.col-md-9.mb-3.mb-md-0
-            p.mb-3 <b>Prudencia:</b> Este principio aplica en los casos en que se debe reconocer un hecho económico, pero no se puede medir con fiabilidad. Para dar una solución al tema, lo más conveniente es encontrar un mecanismo que permita encontrar un valor razonable, de conformidad la realidad económica del mercado.
+            p.mb-3 <b>Prudencia:</b> este principio aplica en los casos en que se debe reconocer un hecho económico, pero no se puede medir con fiabilidad. Para dar una solución al tema, lo más conveniente es encontrar un mecanismo que permita encontrar un valor razonable, de conformidad la realidad económica del mercado.
 
         .row.justify-content-center.align-items-center.p-5
           .col-12.col-md-3.mb-3.mb-md-0
             img.mt-3(src="@/assets/curso/images/tema1/ico_13.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
           .col-12.col-md-9.mb-3.mb-md-0
-            p.mb-3 <b>Uniformidad:</b> El registro de las operaciones de la compañía se debe realizar respetando el método usado en operaciones similares, el cual debe conservar relación los marcos normativos adoptados en el país. 
+            p.mb-3 <b>Uniformidad:</b> el registro de las operaciones de la compañía se debe realizar respetando el método usado en operaciones similares, el cual debe conservar relación los marcos normativos adoptados en el país. 
           hr
           .col-12.col-md-3.mb-3.mb-md-0
             img.mt-3(src="@/assets/curso/images/tema1/ico_14.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
           .col-12.col-md-9.mb-3.mb-md-0
-            p.mb-3 <b>Materialidad:</b> El principio de materialidad o importancia relativa hace referencia al manejo flexible y práctico para el registro en la contabilidad, de las operaciones en aras de dirimir cualquier situación de conflicto al momento de incluirse en la contabilidad.
+            p.mb-3 <b>Materialidad:</b> el principio de materialidad o importancia relativa hace referencia al manejo flexible y práctico para el registro en la contabilidad, de las operaciones en aras de dirimir cualquier situación de conflicto al momento de incluirse en la contabilidad.
           
 
     p.mb-3 Con la aplicación de estos Principios de Contabilidad Generalmente Aceptados, en el manejo de la contabilidad en Colombia, se obtendrá una información financiera objetiva, de tal forma que las cifras sean consecuentes con los resultados económicos de las empresas; es decir, que, si la empresa generó pérdidas, se reflejen pérdidas y viceversa, para con base en esta información, tomar las decisiones a que hubiere lugar.
@@ -301,18 +301,18 @@
     :style="{'background-image': `url(${require('@/assets/curso/images/tema1/img_9.svg')})`}"
     )
       .bloque-texto-g__texto.p-5(data-aos="fade-right")
-        p.mb-3 Las políticas son implementadas para dar cumplimiento a los procesos misionales de la organización; es decir, deben estar conectados con la misión de la empresa y sirven de apoyo para lograrlo de una manera adecuada y sin ningún percance.
+        p.mb-3 La dinámica contable, indica la manera en que se deben registrar las cuentas contables en la partida doble      y comprender cuáles son los movimientos que se deben realizar en la contabilidad. En esta dinámica se describe a nivel general los registros más comunes para cada grupo de cuentas, bien sean de naturaleza débito o crédito. Por ejemplo, en el caso de los activos, estos son de naturaleza débito;      es decir, aumentan por el debe o izquierda y disminuyen por el crédito o la derecha de la cuenta T. 
 
     .bloque-texto-a.color-custom-2.p-md-0.mb-5.d-block.d-lg-none
       .row.m-4.align-items-center.justify-content-between
         .col-lg-9(data-aos="fade-right")
           .bloque-texto-a__texto.p-5.my-5
-            p Las políticas son implementadas para dar cumplimiento a los procesos misionales de la organización; es decir, deben estar conectados con la misión de la empresa y sirven de apoyo para lograrlo de una manera adecuada y sin ningún percance.
+            p La dinámica contable, indica la manera en que se deben registrar las cuentas contables en la partida doble      y comprender cuáles son los movimientos que se deben realizar en la contabilidad. En esta dinámica se describe a nivel general los registros más comunes para cada grupo de cuentas, bien sean de naturaleza débito o crédito. Por ejemplo, en el caso de los activos, estos son de naturaleza débito;      es decir, aumentan por el debe o izquierda y disminuyen por el crédito o la derecha de la cuenta T. 
         .col-lg-3.mb-3.mb-lg-0(data-aos="fade-left")
           figure
             img(src='@/assets/curso/images/tema1/img_9.svg' alt='', style="width:400px; display:block; margin:-1rem 0;") 
     
-    p.mb-5 Sin embargo, en el activo también se encuentran algunas cuentas que su dinámica contable es a la inversa de lo aquí manifestado, tales como las amortizaciones, las depreciaciones, el deterioro, entre otras que en esencia son de naturaleza crédito y que su efecto es disminuir el valor del activo, hasta llevarlo a reflejar un valor neto del mismo. Estas cuentas son de naturaleza inversa a las cuentas del activo (debito), básicamente por que cumplen una función de disminuir una cuenta principal del activo en cada caso y finalmente generar un saldo neto de las cuentas A continuación se puede revisar cómo funciona cada una de ellas:
+    p.mb-5 Sin embargo, en el activo también se encuentran algunas cuentas que su dinámica contable es a la inversa de lo aquí manifestado, tales como las amortizaciones, las depreciaciones, el deterioro, entre otras que en esencia son de naturaleza crédito y que su efecto es disminuir el valor del activo, hasta llevarlo a reflejar un valor neto del mismo. Estas cuentas son de naturaleza inversa a las cuentas del activo (débito), básicamente por que cumplen una función de disminuir una cuenta principal del activo en cada caso y finalmente generar un saldo neto de las cuentas A continuación se puede revisar cómo funciona cada una de ellas:
 
     .tarjeta--container.row.mb-5
       .col-md.tarjeta.color-custom-3.p-5
@@ -322,7 +322,7 @@
               img(src='@/assets/curso/images/tema1/ico_15.svg', alt='', style="width:100px; display:block; margin:auto 0 ;")
           
         h2.text-center Las amortizaciones
-        p Como primera medida dejemos en claro, que las amortizaciones se aplican a las cuentas del activo intangibles y diferidos. Ahora bien, podemos definir las amortizaciones, como la forma de dividir un gasto que realiza hoy la empresa, pero del cual se va a beneficiar en el futuro. Por ejemplo, si una empresa compra y paga un software contable, el año uno, pero su cobertura de servicio se establece para tres años, el gasto se llevaría gradualmente al estado de resultado durante los 36 meses y no en un solo momento.
+        p Como primera medida dejemos en claro, que las amortizaciones se aplican a las cuentas del activo intangible y diferido. Ahora bien, podemos definir las amortizaciones, como la forma de dividir un gasto que realiza hoy la empresa, pero del cual se va a beneficiar en el futuro. Por ejemplo, si una empresa compra y paga un <i>software</i> contable, el año uno, pero su cobertura de servicio se establece para tres años, el gasto se llevaría gradualmente al estado de resultado durante los 36 meses y no en un solo momento.
 
       .col-md.tarjeta.color-custom-4.p-5
         .row.justify-content-center.mb-4
@@ -368,19 +368,19 @@
         .row.justify-content-center.align-items-star.p-5
           .col-lg-4
             h3.mb-5 Inversiones de títulos participativos
-            p.mb-3 corresponden a las inversiones realizadas en acciones de otras compañías.
+            p.mb-3 Corresponden a las inversiones realizadas en acciones de otras compañías.
           .col-lg-8
             img(src="@/assets/curso/images/tema1/img_12.png").mb-3
         .row.justify-content-center.align-items-star.p-5
           .col-lg-4
             h3.mb-5 Inversiones de título de deuda
-            p.mb-3 en este grupo encontramos las inversiones en CDT, los bonos, entre otros.
+            p.mb-3 En este grupo encontramos las inversiones en CDT, los bonos, entre otros.
           .col-lg-8
             img(src="@/assets/curso/images/tema1/img_13.png").mb-3
         .row.justify-content-center.align-items-star.p-5
           .col-lg-4
             h3.mb-5 Derivados financieros
-            p.mb-3 Estos tienen origen en otro activo relacionado como instrumento financiero, por ejemplo, las acciones o los bonos, los cuales eventualmente generaran comportamientos positivos (dividendos), o negativos (pérdida de valor de la inversión) en la compañía.
+            p.mb-3 Estos tienen origen en otro activo relacionado como instrumento financiero, por ejemplo, las acciones o los bonos, los cuales eventualmente generarán comportamientos positivos (dividendos), o negativos (pérdida de valor de la inversión) en la compañía.
           .col-lg-8
             img(src="@/assets/curso/images/tema1/img_14.png").mb-3
         .row.justify-content-center.align-items-star.p-5
@@ -418,7 +418,7 @@
       .col-lg-10
         .titulo-sexto.color-acento-contenido.mb-3(data-aos="zoom-in-right")
           h5 Figura 3
-          span  Importancia de la contabilidad en la estabilidad financiera
+          span  Algunos documentos contables          
     
     .row.aling.my-5 
       .col-lg-10(data-aos="fade-left") 
@@ -456,7 +456,7 @@
           .row.align-items-center
             .col-md-6.mb-4.mb-md-0
               h3 2. Cuenta de cobro
-              p Una #[span.color-text cuenta de cobro] es un documento contable, expedido por las personas naturales, no obligadas a expedir factura de venta, con el fin de evidenciar sus actividades comerciales.
+              p Es un documento contable, expedido por las personas naturales, no obligadas a expedir factura de venta, con el fin de evidenciar sus actividades comerciales.
             .col-md-6
               figure
                 img(src='@/assets/curso/images/tema1/img_21.png', alt='Texto que describa la imagen')
@@ -472,7 +472,7 @@
           .row.align-items-center
             .col-md-6.mb-4.mb-md-0
               h3 3. Recibos de caja
-              p Los recibos de caja son los documentos que sustentan las entradas de dinero a la compañía. Cada vez que se configure un Ingreso, como por ejemplo en el pago de una factura de venta o por otros ingresos operacionales o no operacionales, se deberá registrar un recibo de caja para respaldar dicho dinero recibido.
+              p Son los documentos que sustentan las entradas de dinero a la compañía. Cada vez que se configure un Ingreso, como por ejemplo en el pago de una factura de venta o por otros ingresos operacionales o no operacionales, se deberá registrar un recibo de caja para respaldar dicho dinero recibido.
           
             .col-md-6
               figure
@@ -541,7 +541,7 @@
           .row.align-items-center
             .col-md-6.mb-4.mb-md-0
               h3 7. Consignaciones bancarias
-              p Las consignaciones bancarias son los depósitos de dinero que realiza una persona natural o jurídica en cuentas de ahorro, cuentas corrientes, entre otros. Hoy en día estas consignaciones también se realizan mediante transferencia electrónica de banco a banco, esta práctica permite realizar pagos de cuentas por pagar, compras, etc.
+              p Son los depósitos de dinero que realiza una persona natural o jurídica en cuentas de ahorro, cuentas corrientes, entre otros. Hoy en día estas consignaciones también se realizan mediante transferencia electrónica de banco a banco, esta práctica permite realizar pagos de cuentas por pagar, compras, etc.
             .col-md-6
               figure
                 img(src='@/assets/curso/images/tema1/img_26.png', alt='Texto que describa la imagen')
@@ -557,14 +557,14 @@
           .row.align-items-center
             .col-md-6.mb-4.mb-md-0
               h3 8. Facturas de compra
-              p La factura de compra es un documento soporte que sirve de respaldo para las prácticas comerciales encaminadas a ejecutar el objeto social de las compañías. Pueden ser compra de productos y/o servicios y se expide por parte de quien genera la venta a sus clientes.
+              p  Es un documento soporte que sirve de respaldo para las prácticas comerciales encaminadas a ejecutar el objeto social de las compañías. Pueden ser compra de productos y/o servicios y se expide por parte de quien genera la venta a sus clientes.
           
             .col-md-6
               figure
                 img(src='@/assets/curso/images/tema1/img_27.png', alt='Texto que describa la imagen')
       .col-lg-2
         a.botom-1.boton.color-acento-botones.indicador__container.botom(@click="modal9 = true")
-          span <i>9. Notas debito</i> 
+          span <i>9. Notas débito</i> 
           .indicador--click(v-if="mostrarIndicador")
           .col
             a.lnk(@click="modal1 = true") 
@@ -573,8 +573,8 @@
         ModalA(:abrir-modal.sync="modal9")
           .row.align-items-center
             .col-md-6.mb-4.mb-md-0
-              h3 9. Notas debito
-              p La nota débito es un comprobante que una empresa envía a su cliente, por medio del cual se le informa el haber cargado o debitado en su cuenta un valor determinado, por el concepto que se indica en la misma nota.
+              h3 9. Notas débito
+              p Es un comprobante que una empresa envía a su cliente, por medio del cual se le informa el haber cargado o debitado en su cuenta un valor determinado, por el concepto que se indica en la misma nota.
             .col-md-6
               figure
                 img(src='@/assets/curso/images/tema1/img_28.png', alt='Texto que describa la imagen')
@@ -590,7 +590,7 @@
           .row.align-items-center
             .col-md-6.mb-4.mb-md-0
               h3 10. Notas crédito
-              p La nota crédito es el documento o comprobante que una persona natural o jurídica obligada a llevar contabilidad, envía a sus clientes, con el propósito de informar la acreditación de un rubro o valor en su cuenta, por el concepto que motivara dicha nota.
+              p Es el documento o comprobante que una persona natural o jurídica obligada a llevar contabilidad, envía a sus clientes, con el propósito de informar la acreditación de un rubro o valor en su cuenta, por el concepto que motivara dicha nota.
           
             .col-md-6
               figure
@@ -641,7 +641,7 @@
           .row.align-items-center
             .col-md-6.mb-4.mb-md-0
               h3 13. Declaraciones tributarias
-              p Este documento contable, resulta ser muy importante para los intereses de la persona natural o jurídica, que realiza los pagos de impuestos al fisco, y que sirven para confirmar los pagos realizados por conceto de cualquier tributo, cuando cualquier entidad de la orden nacional encargada de auditar en la materia, así lo requiera.
+              p Este documento contable, resulta ser muy importante para los intereses de la persona natural o jurídica, que realiza los pagos de impuestos al fisco, y que sirven para confirmar los pagos realizados por concepto de cualquier tributo, cuando cualquier entidad de la orden nacional encargada de auditar en la materia, así lo requiera.
           
             .col-md-6
               figure
@@ -703,7 +703,7 @@
             .col-lg-12
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.mb-0 Hasta aquí se ha tratado las temáticas referentes a los temas de contabilidad, en donde  se abordan uno a uno temas tanto contables, como tributarios, que nos permitieron hacer claridad sobre generalidades importantes para las personas naturales y jurídicas que están obligados o por voluntad propia a llevar contabilidad y a tributar en Colombia.
+                  p.mb-0 Hasta aquí se han tratado las temáticas referentes a los temas de contabilidad, en donde  se abordan uno a uno temas tanto contables, como tributarios, que nos permitieron hacer claridad sobre generalidades importantes para las personas naturales y jurídicas que están obligados o por voluntad propia a llevar contabilidad y a tributar en Colombia.
 
 
 

@@ -60,7 +60,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.6',
-            titulo: 'DNormativa',
+            titulo: 'Normativa',
             hash: 't_1_6',
           },
         ],
@@ -255,9 +255,9 @@ export default {
   creditos: {
     liderEquipo: [
       {
-        nombre: 'Maria Camila Garcia Santamaria',
+        nombre: 'María Camila García Santamaría',
         cargo: 'Líder del equipo',
-        centro: 'Dirección General',
+        centro: 'Dirección general',
       },
     ],
     contenidoInstruccional: [
@@ -269,19 +269,19 @@ export default {
       },
       {
         nombre: 'Jair Yovanny Castro Morales',
-        cargo: 'Experto Temático',
+        cargo: 'Experto temático',
         centro: 'Centro Agropecuario La Granja - Regional Tolima',
       },
       {
         nombre: 'Gloria Alexandra Orejarena Barrios',
-        cargo: 'Diseñadora Instruccional',
+        cargo: 'Diseñadora instruccional',
         centro:
           'Centro de la Industria, la Empresa y los Servicios - Regional Norte de Santander',
       },
       {
         nombre: 'Andrés Felipe Velandia Espitia',
         cargo: 'Asesor Metodológico',
-        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+        centro: 'Centro de Diseño y metrología - Regional Distrito Capital',
       },
       {
         nombre: 'Jhon Jairo Rodríguez Pérez',
@@ -297,7 +297,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Leyson Fabian Castaño Perez',
+        nombre: 'Leyson Fabian Castaño Pérez',
         cargo: 'Soporte organizacional',
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
@@ -331,7 +331,7 @@ export default {
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'María Eugenia Mejia López',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
