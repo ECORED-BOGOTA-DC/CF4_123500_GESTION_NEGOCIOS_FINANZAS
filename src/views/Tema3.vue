@@ -165,7 +165,7 @@
                     tbody
                       tr
                         td.th-1  Para las personas jurídicas la tarifa para el año 2022 será del 35%.
-                        td.th-1  Para el caso de las personas naturales la tarifa es progresiva, es decir, que entre más alta la renta liquida gravable del contribuyente, mayor será el impuesto a cargo, y viceversa.
+                        td.th-1  Para el caso de las personas naturales la tarifa es progresiva, es decir, que entre más alta la renta líquida gravable del contribuyente, mayor será el impuesto a cargo, y viceversa.
                       tr 
                         td.th-2 Sin embargo se debe tener en cuenta que la tarifa puede cambiar año a año de conformidad con lo que se puede regular por parte del estado (reformas tributarias).
                         td.th-2 La más reciente reforma tributaria del año 2021 no modificó las tarifas de renta aplicables a las personas naturales.
@@ -265,7 +265,7 @@
       .py-3.py-md-4(titulo="Ejemplo tasas")
         .row.justify-content-center.align-items-center.p-4
           .col-12.col-md-7.mb-3.mb-md-0
-            p.mb-0 Como ejemplo de tasas encontramos los peajes, sobretasa a la gasolina, entre otros servicios que presta en estado. En el caso de los municipios encontramos las tasas que se cobran por concepto de alumbrado público, aseo, entre otras.
+            p.mb-0 Como ejemplo de tasas encontramos los peajes, sobretasa a la gasolina, entre otros servicios que presta en Estado. En el caso de los municipios encontramos las tasas que se cobran por concepto de alumbrado público, aseo, entre otras.
           .col-12.col-md-5.mb-3.mb-md-0
             img(src="@/assets/curso/images/tema3/img_5.png").m-auto
 

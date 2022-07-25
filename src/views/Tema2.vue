@@ -112,7 +112,7 @@
       SlyderA(tipo="b")
         .row.justify-content-center.align-items-star.p-5
           .col-lg-4
-            h3.mb-5 Las hojas electrónicas financieras
+            h3.mb-5 las hojas electrónicas financieras
             p.mb-3 Se utilizan permanentemente en las empresas por parte de los administradores, para medir la gestión organizacional y de negocios en general. Dentro de los múltiples beneficios de esta herramienta, encontramos por ejemplo que, a falta de <i>software</i> contable, podemos llevar la contabilidad de los negocios o empresas, podemos crear bases de datos, se pueden formular y realizar cálculos aritméticos, se pueden generar reportes gerenciales para juntas directivas, graficas, análisis financieros, análisis estadísticos, entre otras virtudes de esta herramienta ofimática.
           .col-lg-8
             img(src="@/assets/curso/images/tema2/img_6.png").mb-3
@@ -134,7 +134,7 @@
           
           .col-lg-4.d-flex
             .jumbotron-4.p-3
-              p.text-small.mb-3 <b>Pestañas de las hojas:</b> Las hojas de cálculo están conformadas por diversas hojas. En la parte inferior izquierda encontramos las pestañas de las hojas, mediante las cuales se pueden añadir, copiar o quitar hojas, entre otras tareas.
+              p.text-small.mb-3 <b>Pestañas de las hojas:</b> las hojas de cálculo están conformadas por diversas hojas. En la parte inferior izquierda encontramos las pestañas de las hojas, mediante las cuales se pueden añadir, copiar o quitar hojas, entre otras tareas.
           .col-lg-2.d-flex
             .jumbotron-5.px-2.py-1
               p.text-small.my-4 <b>Barra de título:</b> en este espacio se indica el nombre del libro que se encuentra en uso.
@@ -147,7 +147,7 @@
           .row.aling-items-stretch.justify-content-center.mt-3
             .col-lg-3.d-flex
               .jumbotron-8.p-3
-                p.text-small.mb-0 <b>Barra de herramienta de acceso rápido:</b> está ubicada en la esquina superior izquierda de la hoja de cálculo, y sirve para anclar aquellos comandos que se utilizamos frecuentemente.
+                p.text-small.mb-0 <b>Barra de herramienta de acceso rápido:</b> está ubicada en la esquina superior izquierda de la hoja de cálculo, y sirve para anclar aquellos comandos que utilizamos frecuentemente.
             .col-lg-3.d-flex
               .jumbotron-9.p-3
                 p.text-small.mb-0 <b>Barra de fórmulas:</b>  como su nombre lo indica, muestra las fórmulas contenidas en las celdas y permite editarlas de ser necesario.

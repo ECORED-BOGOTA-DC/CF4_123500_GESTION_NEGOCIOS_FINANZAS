@@ -280,7 +280,7 @@ export default {
       },
       {
         nombre: 'Andrés Felipe Velandia Espitia',
-        cargo: 'Asesor Metodológico',
+        cargo: 'Asesor metodológico',
         centro: 'Centro de Diseño y metrología - Regional Distrito Capital',
       },
       {
@@ -331,7 +331,7 @@ export default {
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: 'María Eugenia Mejia López',
+        nombre: 'María Eugenia Mejía López',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
