@@ -38,8 +38,10 @@
                 .col.mb-3.mb-sm-0
                   p.mb-0 Los informes más frecuentes que se deben presentar son los solicitados por los organismos de control, entre ellos se tienen, la Dirección de Impuestos y Aduanas Nacionales (DIAN), las superintendencias que tengan competencia sobre cada sector empresarial, las demás entidades gubernamentales que ejercen supervisión a las entidades públicas o privadas, tales como, la Contraloría General de la República, las distintas Contraloría del orden nacional o regional, la Procuraduría General de la Nación, las personerías, defensorías del pueblo, entre otras.
 
+    Separador 
+
     #t_2_1.titulo-segundo
-      .h4 2.1 Estados financieros
+      .h2 2.1 Estados financieros
     
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-6(data-aos="fade-left") 
@@ -53,11 +55,11 @@
           .row.justify-content-center.align-items-center
             .col
               .row.justify-content-between.align-items-center
-                .col-lg-2
-                  img.mx-1(src="@/assets/curso/images/tema2/ico_1.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;")
+                .col-3.col-sm-2.col-lg-2
+                  img.mx-1.mb-3(src="@/assets/curso/images/tema2/ico_1.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;")
                 .col.mb-3.mb-sm-0
                   h3.text-white.text-center Estados financieros
-                .col-md-auto
+                .col-12.col-sm-4.col-lg-4
                   a.boton.color-custom-7(:href="obtenerLink('downloads/Estados financieros.pdf')" target="_blank")
                     span Descargar
                     .row
@@ -71,66 +73,67 @@
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")(data-aos="fade-up")
           div(titulo="Actividades de operación")
             .row.align-items-star.justify-content-center.p-4
-              .col-lg-6
-                .jumbotron-2.p-4.mb-3
-                  p.mb-0.text-center.text Como su nombre lo indica, estas actividades hacen referencia a todas las relacionadas con el desarrollo del objeto social de la compañía; es decir, la producción para empresas productoras, las actividades relacionadas con la prestación de servicios, y las de comercialización de productos, según el caso.
-                .jumbotron-3.p-4.mb-3
-                  p.mb-0.text-center.text Dentro de las consideraciones más frecuentes, tenemos la compra y venta de productos o servicios, los pagos realizados por conceptos de nómina, arrendamientos, entre otros. Aquí también se incluyen las cuentas del estado de situación financiera como son los inventarios, cartera, pasivos por impuestos, entre otros.
+              .col-lg-8
+                .jumbotron-2.py-5.px-5.mb-2
+                  p.mb-5.text-center.text Como su nombre lo indica, estas actividades hacen referencia a todas las relacionadas con el desarrollo del objeto social de la compañía; es decir, la producción para empresas productoras, las actividades relacionadas con la prestación de servicios, y las de comercialización de productos, según el caso.
+                .jumbotron-3.py-5.px-5.mb-2
+                  p.mb-5.text-center.text Dentro de las consideraciones más frecuentes, tenemos la compra y venta de productos o servicios, los pagos realizados por conceptos de nómina, arrendamientos, entre otros. Aquí también se incluyen las cuentas del estado de situación financiera como son los inventarios, cartera, pasivos por impuestos, entre otros.
 
               .col-lg-4
                 img(src='@/assets/curso/images/tema2/img_3.svg')
                 
           div(titulo="Actividades de inversión")
             .row.align-items-star.justify-content-center.p-4
-              .col-lg-6
-                .jumbotron-2.p-4.mb-3
-                  p.mb-0.text-center.text-2 A nivel general, las actividades de inversión en las empresas, como su nombre lo indica, corresponden a las inversiones que realizan en activos fijos, o participación en acciones de otras empresas, inversiones en CDT, títulos valores a nivel general. 
-                .jumbotron-3.p-4.mb-3
-                  p.mb-0.text-center.text Como usos o destinación de los recursos, se incluyen las compras que en un periodo determinado realice la compañía, en rubros diferentes a la compra de mercancías para la venta, y demás que tengan relación con la operación, las cuentas más frecuentes en este grupo, son la propiedad planta y equipo, intangibles, entre otros.
+              .col-lg-8
+                .jumbotron-2.py-5.px-5.mb-2
+                  p.mb-5.text-center.text A nivel general, las actividades de inversión en las empresas, como su nombre lo indica, corresponden a las inversiones que realizan en activos fijos, o participación en acciones de otras empresas, inversiones en CDT, títulos valores a nivel general. 
+                .jumbotron-3.py-5.px-5.mb-2
+                  p.mb-5.text-center.text Como usos o destinación de los recursos, se incluyen las compras que en un periodo determinado realice la compañía, en rubros diferentes a la compra de mercancías para la venta, y demás que tengan relación con la operación, las cuentas más frecuentes en este grupo, son la propiedad planta y equipo, intangibles, entre otros.
               .col-lg-4
                 img(src='@/assets/curso/images/tema2/img_4.svg')
 
           div(titulo="Actividades de financiación")
             .row.align-items-star.justify-content-center.p-4
-              .col-lg-6
-                .jumbotron-2.p-4.mb-3
-                  p.mb-0.text-center.text-1 A este grupo pertenece todo lo relacionado con adquisición de dineros para ser utilizados por la empresa. Estos dineros pueden surgir de obligaciones con terceros, como por ejemplo de los bancos, como también, de sus propietarios, los cuales figuran directamente en las cuentas de patrimonio de la entidad, según sea el caso.
-                .jumbotron-3.p-4.mb-3
-                  p.mb-0.text-center.text-1 Es importante tener en cuenta que en el grupo de los pasivos, no se pueden incluir, los pasivos laborales, los impuestos, los acreedores, proveedores, entre otros, pues estos pertenecen al grupo de actividades de operación, de las actividades más frecuentes en este estado de flujos de efectivo, encontramos las nuevas capitalizaciones que se realicen por parte de los acciones o ingresos por venta de acciones para nuevos propietarios de la compañía.
+              .col-lg-8
+                .jumbotron-2.py-5.px-5.mb-2
+                  p.mb-5.text-center.text  A este grupo pertenece todo lo relacionado con adquisición de dineros para ser utilizados por la empresa. Estos dineros pueden surgir de obligaciones con terceros, como por ejemplo de los bancos, como también, de sus propietarios, los cuales figuran directamente en las cuentas de patrimonio de la entidad, según sea el caso.
+                .jumbotron-3.py-5.px-5.mb-2
+                  p.mb-5.text-center.text Es importante tener en cuenta que en el grupo de los pasivos, no se pueden incluir, los pasivos laborales, los impuestos, los acreedores, proveedores, entre otros, pues estos pertenecen al grupo de actividades de operación, de las actividades más frecuentes en este estado de flujos de efectivo, encontramos las nuevas capitalizaciones que se realicen por parte de los acciones o ingresos por venta de acciones para nuevos propietarios de la compañía.
               .col-lg-4
                 img(src='@/assets/curso/images/tema2/img_5.svg')
-            
+                
+    Separador 
 
     #t_2_2.titulo-segundo
-      .h4 2.2 Hojas electrónicas financieras
+      .h2 2.2 Hojas electrónicas financieras
 
     p.mb-3 Una hoja electrónica financiera, básicamente es un recurso importante para las personas naturales o jurídicas, que permite realizar los análisis de información de acuerdo a las necesidades administrativas, en forma de matriz, cuyo objetivo, es organizar datos numéricos y realizar las operaciones con ellos  y si así se considera, realizar monitoreo permanente y actualización de la información, que resulte fundamental para soportar la toma de decisiones en las organizaciones o para los usuarios de la información a nivel general.
 
     p.mb-5 Este <i>software</i> financiero, se basa en un sistema de celdas tanto horizontales como verticales, que, al combinarse, se convierten en distintas filas o columnas. Sabiendo ya esto, se invita a revisar el siguiente recurso donde se muestran las diferentes funciones de las hojas electrónicas: 
 
-    .tarjeta.bg_grad-03.p-4.mb-5(data-aos="zoom-in-up")
+    .tarjeta.bg_grad-03.p-2.mb-5(data-aos="zoom-in-up")
       SlyderA(tipo="b")
-        .row.justify-content-center.align-items-star.p-5
+        .row.justify-content-center.align-items-star.p-3
           .col-lg-4
-            h3.mb-5 las hojas electrónicas financieras
+            h4.mb-5 las hojas electrónicas financieras
             p.mb-3 Se utilizan permanentemente en las empresas por parte de los administradores, para medir la gestión organizacional y de negocios en general. Dentro de los múltiples beneficios de esta herramienta, encontramos por ejemplo que, a falta de <i>software</i> contable, podemos llevar la contabilidad de los negocios o empresas, podemos crear bases de datos, se pueden formular y realizar cálculos aritméticos, se pueden generar reportes gerenciales para juntas directivas, graficas, análisis financieros, análisis estadísticos, entre otras virtudes de esta herramienta ofimática.
           .col-lg-8
             img(src="@/assets/curso/images/tema2/img_6.png").mb-3
-        .row.justify-content-center.align-items-star.p-5
+        .row.justify-content-center.align-items-star.p-3
           .col-lg-4
-            h3.mb-5 <i>Softwares contables</i>
+            h4.mb-5 <i>Softwares contables</i>
             p.mb-3 Siendo esta ayuda lo suficientemente práctica, con el pasar de los años muy a pesar de los avances tecnológicos y la creación de <i>software</i> muy completos y diseñados inclusos a las medidas de las necesidades de las personas naturales y jurídicas, en donde se consideran en detalle los procesos particulares, aun así, este tipo de <i>software</i> no pierden vigencia en las empresas, especialmente porque también se han venido actualizando y complementando, conservando la preferencia de los usuarios. 
           .col-lg-8
             img(src="@/assets/curso/images/tema2/img_7.png").mb-3
 
-        .row.justify-content-center.align-items-star.p-5
+        .row.justify-content-center.align-items-star.p-3
           .col-lg-4
-            h3.mb-5 Excel en la contabilidad
+            h4.mb-5 Excel en la contabilidad
             p.mb-3 En conclusión, Microsoft Excel, es la hoja de cálculo más utilizada a nivel mundial por parte de las empresas y en esta se identifican las siguientes partes más conocidas.
           .col
             img(src="@/assets/curso/images/tema2/img_8.png").mb-3
-        .row.justify-content-center.align-items-star.p-5
-          h3.mb-5 Funciones particulares de Excel
+        .row.justify-content-center.align-items-star.p-3
+          h4.mb-5 Funciones particulares de Excel
           
           .col-lg-4.d-flex
             .jumbotron-4.p-3
