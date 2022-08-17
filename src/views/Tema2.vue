@@ -97,8 +97,8 @@
               .col-lg-8
                 .jumbotron-2.py-5.px-5.mb-2
                   p.mb-5.text-center  A este grupo pertenece todo lo relacionado con adquisición de dineros para ser utilizados por la empresa. Estos dineros pueden surgir de obligaciones con terceros, como por ejemplo de los bancos, como también, de sus propietarios, los cuales figuran directamente en las cuentas de patrimonio de la entidad, según sea el caso.
-                .jumbotron-3.py-5.px-5.mb-2
-                  p.mb-5.text-center.mg-top-2 Es importante tener en cuenta que en el grupo de los pasivos, no se pueden incluir, los pasivos laborales, los impuestos, los acreedores, proveedores, entre otros, pues estos pertenecen al grupo de actividades de operación, de las actividades más frecuentes en este estado de flujos de efectivo, encontramos las nuevas capitalizaciones que se realicen por parte de los acciones o ingresos por venta de acciones para nuevos propietarios de la compañía.
+                .jumbotron-3.py-5.px-5.mb-0
+                  p.mb-5.text-center.mg-top Es importante tener en cuenta que en el grupo de los pasivos, no se pueden incluir, los pasivos laborales, los impuestos, los acreedores, proveedores, entre otros, pues estos pertenecen al grupo de actividades de operación, de las actividades más frecuentes en este estado de flujos de efectivo, encontramos las nuevas capitalizaciones que se realicen por parte de los acciones o ingresos por venta de acciones para nuevos propietarios de la compañía.
               .col-lg-4
                 img(src='@/assets/curso/images/tema2/img_5.svg')
                 

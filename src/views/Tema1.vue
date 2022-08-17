@@ -35,18 +35,18 @@
     
     .row.align-items-star.justify-content-center.p-4
       .col-lg-10
-        .jumbotron-17.py-5.px-4.mb-2(data-aos="fade-left") 
-          p.mb-5.text-center.m-top-2 Algunos empresarios consideran que llevar la contabilidad no es un aspecto relevante para sus negocios, sino que, por el contrario, consideran que esta práctica tan solo representa un gasto obligatorio e improductivo, con base en una imposición legal de parte del gobierno nacional. 
-        .jumbotron-18.py-5.px-4.mb-2(data-aos="fade-left") 
+        .jumbotron-17.py-5.px-4.mb-0(data-aos="fade-left") 
+          p.mb-5.text-center.m-top-2.py-2  Algunos empresarios consideran que llevar la contabilidad no es un aspecto relevante para sus negocios, sino que, por el contrario, consideran que esta práctica tan solo representa un gasto obligatorio e improductivo, con base en una imposición legal de parte del gobierno nacional. 
+        .jumbotron-18.py-5.px-4.mb-0(data-aos="fade-left") 
           p.mb-5.text-center.m-top-2.p-4  Es muy probable que estos propietarios convivan con un sin número de problemas, como consecuencia de no llevarla en debida forma, o de la inadecuada apropiación de la información financiera. 
-        .jumbotron-19.py-5.px-4.mb-2(data-aos="fade-left") 
-          p.mb-5.text-center.m-top-3.p-3  Como consecuencia de estas malas prácticas administrativas, se encuentran organizaciones que pueden vender de manera importante, sin embargo, pueden tener problemas de liquidez, problemas de tipo fiscal o tributario, en donde pueden enfrentarse a posibles sanciones y hasta el cierre del establecimiento de comercio.
-        .jumbotron-20.py-5.px-4.mb-2(data-aos="fade-left") 
+        .jumbotron-19.py-4.px-3.mb-0(data-aos="fade-left") 
+          p.mb-5.text-center.m-top-3.py-5  Como consecuencia de estas malas prácticas administrativas, se encuentran organizaciones que pueden vender de manera importante, sin embargo, pueden tener problemas de liquidez, problemas de tipo fiscal o tributario, en donde pueden enfrentarse a posibles sanciones y hasta el cierre del establecimiento de comercio.
+        .jumbotron-20.py-5.px-4.mb-0(data-aos="fade-left") 
           p.mb-5.text-center.m-top-3.p-3  No se tiene acceso a la información financiera objetiva y oportuna como base fundamental para la toma de decisiones, no se conocen las edades de la cartera que deben los clientes como tampoco de los proveedores para poder buscar un equilibrio económico en ese sentido.
-        .jumbotron-21.py-5.px-4.mb-2(data-aos="fade-left") 
+        .jumbotron-21.py-5.px-4.mb-0(data-aos="fade-left") 
           p.mb-5.text-center.m-top-2.p-4 Difícilmente se pueda acceder al sector financiero con todos los beneficios que esto conlleva como por ejemplo créditos a bajas tasas como método de financiación, entre otros.
-        .jumbotron-22.py-5.px-4.mb-5(data-aos="fade-left") 
-          p.mb-5.text-center.m-top-3.p-4 Técnicamente, la contabilidad es el reconocimiento de los movimientos contables por parte de un persona natural o jurídica, es decir, incluir la información derivada de la totalidad de las operaciones que se realicen en la empresa. 
+        .jumbotron-22.py-5.px-3.mb-3(data-aos="fade-left") 
+          p.mb-3.text-center.m-top.p Técnicamente, la contabilidad es el reconocimiento de los movimientos contables por parte de un persona natural o jurídica, es decir, incluir la información derivada de la totalidad de las operaciones que se realicen en la empresa. 
 
 
     .row(data-aos="fade")
@@ -439,14 +439,14 @@
     
     .row.align-items-star.justify-content-center.p-4
       .col-lg-10
-        .jumbotron-23.py-5.px-4.mb-2(data-aos="fade-left") 
-          p.mb-5.text-center.m-top-1.p-5 Medio de prueba de las transacciones financieras realizadas en las empresas.
-        .jumbotron-24.py-5.px-4.mb-5(data-aos="fade-left") 
-          p.my-5.text-center.m-top-1.p-5 Respaldar cifras o datos contenidas en los presupuestos.
-        .jumbotron-25.py-5.px-5.mb-5(data-aos="fade-left") 
-          p.my-5.text-center.m-top-1.p-5  Estrategia de control por parte de los entes de vigilancia.
-        .jumbotron-26.py-5.px-4.mb-5(data-aos="fade-left") 
-          p.mb-5.text-center.m-top-1.p-5 Confirmar información de terceros por parte de deudores o proveedores.
+        .jumbotron-23.py-4.px-4.mb-2(data-aos="fade-left") 
+          p.mb-0.text-center.m-top-3.p-5 Medio de prueba de las transacciones financieras realizadas en las empresas.
+        .jumbotron-24.py-5.px-4.mb-2(data-aos="fade-left") 
+          p.mb-0.text-center.m-top-3.p-4 Respaldar cifras o datos contenidas en los presupuestos.
+        .jumbotron-25.py-5.px-5.mb-2(data-aos="fade-left") 
+          p.mb-0.text-center.m-top-1.p-2 Estrategia de control por parte de los entes de vigilancia.
+        .jumbotron-26.py-5.px-4.mb-0(data-aos="fade-left") 
+          p.mb-0.text-center.m-top-3.p-4 Confirmar información de terceros por parte de deudores o proveedores.
 
     
     p.mb-5 En las empresas se encuentra una variedad de documentos contables de acuerdo a sus necesidades, sin embargo, se puede definir algunos de estos que son considerados los más comunes o habituales en las organizaciones:
