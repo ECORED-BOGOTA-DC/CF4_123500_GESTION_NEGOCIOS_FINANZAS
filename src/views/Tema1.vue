@@ -36,17 +36,17 @@
     .row.align-items-star.justify-content-center.p-4
       .col-lg-10
         .jumbotron-17.py-5.px-4.mb-2(data-aos="fade-left") 
-          p.mb-5.text-center.m-top-1 Algunos empresarios consideran que llevar la contabilidad no es un aspecto relevante para sus negocios, sino que, por el contrario, consideran que esta práctica tan solo representa un gasto obligatorio e improductivo, con base en una imposición legal de parte del gobierno nacional. 
+          p.mb-5.text-center.m-top-2 Algunos empresarios consideran que llevar la contabilidad no es un aspecto relevante para sus negocios, sino que, por el contrario, consideran que esta práctica tan solo representa un gasto obligatorio e improductivo, con base en una imposición legal de parte del gobierno nacional. 
         .jumbotron-18.py-5.px-4.mb-2(data-aos="fade-left") 
-          p.mb-5.text-center.m-top-1.p-4  Es muy probable que estos propietarios convivan con un sin número de problemas, como consecuencia de no llevarla en debida forma, o de la inadecuada apropiación de la información financiera. 
+          p.mb-5.text-center.m-top-2.p-4  Es muy probable que estos propietarios convivan con un sin número de problemas, como consecuencia de no llevarla en debida forma, o de la inadecuada apropiación de la información financiera. 
         .jumbotron-19.py-5.px-4.mb-2(data-aos="fade-left") 
-          p.mb-5.text-center.m-top-2.p-3  Como consecuencia de estas malas prácticas administrativas, se encuentran organizaciones que pueden vender de manera importante, sin embargo, pueden tener problemas de liquidez, problemas de tipo fiscal o tributario, en donde pueden enfrentarse a posibles sanciones y hasta el cierre del establecimiento de comercio.
+          p.mb-5.text-center.m-top-3.p-3  Como consecuencia de estas malas prácticas administrativas, se encuentran organizaciones que pueden vender de manera importante, sin embargo, pueden tener problemas de liquidez, problemas de tipo fiscal o tributario, en donde pueden enfrentarse a posibles sanciones y hasta el cierre del establecimiento de comercio.
         .jumbotron-20.py-5.px-4.mb-2(data-aos="fade-left") 
-          p.mb-5.text-center.m-top-2.p-3  No se tiene acceso a la información financiera objetiva y oportuna como base fundamental para la toma de decisiones, no se conocen las edades de la cartera que deben los clientes como tampoco de los proveedores para poder buscar un equilibrio económico en ese sentido.
+          p.mb-5.text-center.m-top-3.p-3  No se tiene acceso a la información financiera objetiva y oportuna como base fundamental para la toma de decisiones, no se conocen las edades de la cartera que deben los clientes como tampoco de los proveedores para poder buscar un equilibrio económico en ese sentido.
         .jumbotron-21.py-5.px-4.mb-2(data-aos="fade-left") 
-          p.mb-5.text-center.m-top-1.p-4 Difícilmente se pueda acceder al sector financiero con todos los beneficios que esto conlleva como por ejemplo créditos a bajas tasas como método de financiación, entre otros.
+          p.mb-5.text-center.m-top-2.p-4 Difícilmente se pueda acceder al sector financiero con todos los beneficios que esto conlleva como por ejemplo créditos a bajas tasas como método de financiación, entre otros.
         .jumbotron-22.py-5.px-4.mb-5(data-aos="fade-left") 
-          p.mb-5.text-center.m-top-1.p-4 Técnicamente, la contabilidad es el reconocimiento de los movimientos contables por parte de un persona natural o jurídica, es decir, incluir la información derivada de la totalidad de las operaciones que se realicen en la empresa. 
+          p.mb-5.text-center.m-top-3.p-4 Técnicamente, la contabilidad es el reconocimiento de los movimientos contables por parte de un persona natural o jurídica, es decir, incluir la información derivada de la totalidad de las operaciones que se realicen en la empresa. 
 
 
     .row(data-aos="fade")
