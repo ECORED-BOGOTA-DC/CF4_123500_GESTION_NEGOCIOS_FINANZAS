@@ -75,9 +75,9 @@
             .row.align-items-star.justify-content-center.p-4
               .col-lg-8
                 .jumbotron-2.py-5.px-5.mb-2
-                  p.mb-5.text-center.text Como su nombre lo indica, estas actividades hacen referencia a todas las relacionadas con el desarrollo del objeto social de la compañía; es decir, la producción para empresas productoras, las actividades relacionadas con la prestación de servicios, y las de comercialización de productos, según el caso.
+                  p.mb-5.text-center Como su nombre lo indica, estas actividades hacen referencia a todas las relacionadas con el desarrollo del objeto social de la compañía; es decir, la producción para empresas productoras, las actividades relacionadas con la prestación de servicios, y las de comercialización de productos, según el caso.
                 .jumbotron-3.py-5.px-5.mb-2
-                  p.mb-5.text-center.text Dentro de las consideraciones más frecuentes, tenemos la compra y venta de productos o servicios, los pagos realizados por conceptos de nómina, arrendamientos, entre otros. Aquí también se incluyen las cuentas del estado de situación financiera como son los inventarios, cartera, pasivos por impuestos, entre otros.
+                  p.mb-5.text-center Dentro de las consideraciones más frecuentes, tenemos la compra y venta de productos o servicios, los pagos realizados por conceptos de nómina, arrendamientos, entre otros. Aquí también se incluyen las cuentas del estado de situación financiera como son los inventarios, cartera, pasivos por impuestos, entre otros.
 
               .col-lg-4
                 img(src='@/assets/curso/images/tema2/img_3.svg')
@@ -86,9 +86,9 @@
             .row.align-items-star.justify-content-center.p-4
               .col-lg-8
                 .jumbotron-2.py-5.px-5.mb-2
-                  p.mb-5.text-center.text A nivel general, las actividades de inversión en las empresas, como su nombre lo indica, corresponden a las inversiones que realizan en activos fijos, o participación en acciones de otras empresas, inversiones en CDT, títulos valores a nivel general. 
+                  p.mb-5.text-center A nivel general, las actividades de inversión en las empresas, como su nombre lo indica, corresponden a las inversiones que realizan en activos fijos, o participación en acciones de otras empresas, inversiones en CDT, títulos valores a nivel general. 
                 .jumbotron-3.py-5.px-5.mb-2
-                  p.mb-5.text-center.text Como usos o destinación de los recursos, se incluyen las compras que en un periodo determinado realice la compañía, en rubros diferentes a la compra de mercancías para la venta, y demás que tengan relación con la operación, las cuentas más frecuentes en este grupo, son la propiedad planta y equipo, intangibles, entre otros.
+                  p.mb-5.text-center Como usos o destinación de los recursos, se incluyen las compras que en un periodo determinado realice la compañía, en rubros diferentes a la compra de mercancías para la venta, y demás que tengan relación con la operación, las cuentas más frecuentes en este grupo, son la propiedad planta y equipo, intangibles, entre otros.
               .col-lg-4
                 img(src='@/assets/curso/images/tema2/img_4.svg')
 
@@ -96,9 +96,9 @@
             .row.align-items-star.justify-content-center.p-4
               .col-lg-8
                 .jumbotron-2.py-5.px-5.mb-2
-                  p.mb-5.text-center.text  A este grupo pertenece todo lo relacionado con adquisición de dineros para ser utilizados por la empresa. Estos dineros pueden surgir de obligaciones con terceros, como por ejemplo de los bancos, como también, de sus propietarios, los cuales figuran directamente en las cuentas de patrimonio de la entidad, según sea el caso.
+                  p.mb-5.text-center  A este grupo pertenece todo lo relacionado con adquisición de dineros para ser utilizados por la empresa. Estos dineros pueden surgir de obligaciones con terceros, como por ejemplo de los bancos, como también, de sus propietarios, los cuales figuran directamente en las cuentas de patrimonio de la entidad, según sea el caso.
                 .jumbotron-3.py-5.px-5.mb-2
-                  p.mb-5.text-center.text Es importante tener en cuenta que en el grupo de los pasivos, no se pueden incluir, los pasivos laborales, los impuestos, los acreedores, proveedores, entre otros, pues estos pertenecen al grupo de actividades de operación, de las actividades más frecuentes en este estado de flujos de efectivo, encontramos las nuevas capitalizaciones que se realicen por parte de los acciones o ingresos por venta de acciones para nuevos propietarios de la compañía.
+                  p.mb-5.text-center.mg-top-2 Es importante tener en cuenta que en el grupo de los pasivos, no se pueden incluir, los pasivos laborales, los impuestos, los acreedores, proveedores, entre otros, pues estos pertenecen al grupo de actividades de operación, de las actividades más frecuentes en este estado de flujos de efectivo, encontramos las nuevas capitalizaciones que se realicen por parte de los acciones o ingresos por venta de acciones para nuevos propietarios de la compañía.
               .col-lg-4
                 img(src='@/assets/curso/images/tema2/img_5.svg')
                 

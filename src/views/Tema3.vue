@@ -29,61 +29,61 @@
 
     .tarjeta.back-line.p-4.mb-5(data-aos="zoom-in-down")
       LineaTiempoC.color-acento-contenido(text-small)
-        .row.justify-content-center.align-items-center(titulo="Paso 1")
-          .col-6.col-lg-1.mb-4.mb-lg-0
+        .row.justify-content-center.align-items-star(titulo="Paso 1")
+          .col-6.col-lg-2.mb-4.mb-lg-0
             figure
-              img(src="@/assets/curso/images/tema3/ico_1.svg", alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
+              img(src="@/assets/curso/images/tema3/ico_1.svg", alt='', style="width:120px; display:block; margin:auto 0 ;").mb-3
           .col-md-7
             p <b>Paso No. 1.</b> Para los contribuyentes obligados a tributar en Colombia, sean estos personas naturales o personas jurídicas, actualmente las normas que rigen en materia tributaria en el orden nacional, se encuentra el estatuto tributario, considerada la biblia en materia de impuestos
 
-        .row.justify-content-center.align-items-center(titulo="Paso 2")
-          .col-6.col-lg-1.mb-4.mb-lg-0
+        .row.justify-content-center.align-items-star(titulo="Paso 2")
+          .col-6.col-lg-2.mb-4.mb-lg-0
             figure
-              img(src="@/assets/curso/images/tema3/ico_2.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;")
+              img(src="@/assets/curso/images/tema3/ico_2.svg",  alt='', style="width:120px; display:block; margin:auto 0 ;")
           .col-md-7
             p <b>Paso No. 2.</b> El Decreto único reglamentario 1625 de 2016, el cual compila y simplifica las normas de carácter reglamentario que rigen en cada sector de la economía y permite a la vez contar con instrumentos jurídicos únicos, entre otras normas que de manera constante, regulan la materia.
                   
-        .row.justify-content-center.align-items-center(titulo="Paso 3")
-          .col-6.col-lg-1.mb-4.mb-lg-0
+        .row.justify-content-center.align-items-star(titulo="Paso 3")
+          .col-6.col-lg-2.mb-4.mb-lg-0
             figure
-              img(src="@/assets/curso/images/tema3/ico_3.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;")
+              img(src="@/assets/curso/images/tema3/ico_3.svg",  alt='', style="width:120px; display:block; margin:auto 0 ;")
           .col-md-7
             p <b>Paso No. 3.</b> En este mismo sentido existen impuestos del orden municipal que para cada uno de ellos existe un estatuto tributario los cuales establecen los tributos en cada caso, y que es responsabilidad de cada contribuyente, documentar sobre los tributos a que se haría responsable si eventualmente decidiera realizar alguna actividad económica en una región especÍfica. 
-        .row.justify-content-center.align-items-center(titulo="Paso 4")
-          .col-6.col-lg-1.mb-4.mb-lg-0
+        .row.justify-content-center.align-items-star(titulo="Paso 4")
+          .col-6.col-lg-2.mb-4.mb-lg-0
             figure
-              img(src="@/assets/curso/images/tema3/ico_4.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;")
+              img(src="@/assets/curso/images/tema3/ico_4.svg",  alt='', style="width:120px; display:block; margin:auto 0 ;")
           .col-md-7
             p <b>Paso No. 4.</b> Estas normas surgen de la constitución política, las leyes, las ordenanzas, los decretos, y las demás directrices que dispongan en cuanto a tributos, los encargados de legislar sobre estos aspectos.
 
-        .row.justify-content-center.align-items-center(titulo="Paso 5")
-          .col-6.col-lg-1.mb-4.mb-lg-0
+        .row.justify-content-center.align-items-star(titulo="Paso 5")
+          .col-6.col-lg-2.mb-4.mb-lg-0
             figure
-              img(src="@/assets/curso/images/tema3/ico_5.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;")
+              img(src="@/assets/curso/images/tema3/ico_5.svg",  alt='', style="width:120px; display:block; margin:auto 0 ;")
           .col-md-7
             p <b>Paso No. 5.</b> El sistema tributario en Colombia, tiene como base fundamental que las personas naturales o jurídicas que realicen una actividad de comercio o cualquier otra actividad que esté gravada con cualquier tipo de tributo tanto nacional, departamental o municipal, esta persona responsable, debe liquidar y pagar de manera voluntaria ante la entidad competente los correspondientes impuestos. 
                   
-        .row.justify-content-center.align-items-center(titulo="Paso 6")
-          .col-6.col-lg-1.mb-4.mb-lg-0
+        .row.justify-content-center.align-items-star(titulo="Paso 6")
+          .col-6.col-lg-2.mb-4.mb-lg-0
             figure
-              img(src="@/assets/curso/images/tema3/ico_6.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;")
+              img(src="@/assets/curso/images/tema3/ico_6.svg",  alt='', style="width:120px; display:block; margin:auto 0 ;")
 
           .col-md-7
             p <b>Paso No. 6.</b> Sin embargo, es claro que si algún contribuyente responsable del impuesto, no cumple con las distintas obligaciones fiscales consagradas en las normas, podrá ser castigado con multas o sanciones que claramente también están consagradas en el Estatuto Tributario y demás normas de la competencia. 
           
-        .row.justify-content-center.align-items-center(titulo="Paso 7")
-          .col-6.col-lg-1.mb-4.mb-lg-0
+        .row.justify-content-center.align-items-star(titulo="Paso 7")
+          .col-6.col-lg-2.mb-4.mb-lg-0
             figure
-              img(src="@/assets/curso/images/tema3/ico_7.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;")
+              img(src="@/assets/curso/images/tema3/ico_7.svg",  alt='', style="width:120px; display:block; margin:auto 0 ;")
            
           .col-md-7
             p <b>Paso No. 7.</b> Los responsables de los impuestos en Colombia, pueden ser desde personas naturales, hasta micros, pequeñas o medianas empresas, entidades del régimen especial en renta, y demás personas jurídicas que realicen actividades que den origen a los impuestos.
 
 
-        .row.justify-content-center.align-items-center(titulo="Paso 8")
-          .col-6.col-lg-1.mb-4.mb-lg-0
+        .row.justify-content-center.align-items-star(titulo="Paso 8")
+          .col-6.col-lg-2.mb-4.mb-lg-0
             figure
-              img(src="@/assets/curso/images/tema3/ico_8.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;")
+              img(src="@/assets/curso/images/tema3/ico_8.svg",  alt='', style="width:120px; display:block; margin:auto 0 ;")
 
           .col-md-7
             p <b>Paso No. 8.</b> Por ello es importante previo a la constitución de alguna sociedad, o emprender cualquier negocio, asesorarse sobre el alcance de los compromisos que se adquieren en el desarrollo de estas actividades de comercio, recordemos que desconocer la norma no excusa la responsabilidad de los declarantes.
@@ -130,17 +130,17 @@
     .row.align-items-star.justify-content-center.p-4
       .col-lg-10
         .jumbotron-27.py-5.px-4.mb-2(data-aos="fade-left") 
-          p.mb-4.text-center.text.m-top-1 En la práctica comercial de las empresas, el RUT sirve para identificar la actividad económica de cualquier tercero, sea este deudor, proveedor y/o prestador de servicio, entre otros.
-        .jumbotron-28.py-5.px-4.mb-2(data-aos="fade-left") 
-          p.mb-4.text-center.text.m-top-1 Con los cuales cualquier persona natural o jurídica, tenga un vínculo laboral, económico, comercial o económico general, incluso ante los órganos estatales de control y vigilancia, para por medio de este documento reconocer las obligaciones fiscales que se tengan, ante el estado. 
+          p.mb-5.text-center.m-top-1.p-3 En la práctica comercial de las empresas, el RUT sirve para identificar la actividad económica de cualquier tercero, sea este deudor, proveedor y/o prestador de servicio, entre otros.
+        .jumbotron-28.py-5.px-5.mb-3(data-aos="fade-left") 
+          p.mb-5.text-center.m-top-2.p-2 Con los cuales cualquier persona natural o jurídica, tenga un vínculo laboral, económico, comercial o económico general, incluso ante los órganos estatales de control y vigilancia, para por medio de este documento reconocer las obligaciones fiscales que se tengan, ante el estado. 
         .jumbotron-29.py-5.px-4.mb-2(data-aos="fade-left") 
-          p.mb-4.text-center.text.m-top-1  Y es que, gracias al RUT, la DIAN cuenta con una herramienta primordial, utilizada en sus procesos de fiscalización y auditoria en general, en donde puede encontrar información actualizada, clasificada, y en teoría confiable de todos los contribuyentes responsables inscritos en el registro. 
+          p.mb-5.text-center.m-top-2.p-3  Y es que, gracias al RUT, la DIAN cuenta con una herramienta primordial, utilizada en sus procesos de fiscalización y auditoria en general, en donde puede encontrar información actualizada, clasificada, y en teoría confiable de todos los contribuyentes responsables inscritos en el registro. 
         .jumbotron-30.py-5.px-4.mb-2(data-aos="fade-left") 
-          p.mb-4.text-center.text.m-top-1  Esta información le permite al estado mediante sus órganos de control autorizados, poder realizar una gestión de recaudo y control de los impuestos más eficiente y que a la vez facilita el cumplimento de las obligaciones a los sujetos pasivos del mismo, y poder así simplificar los procesos, y trámites requeridos. 
+          p.mb-5.text-center.m-top-2.p-3  Esta información le permite al estado mediante sus órganos de control autorizados, poder realizar una gestión de recaudo y control de los impuestos más eficiente y que a la vez facilita el cumplimento de las obligaciones a los sujetos pasivos del mismo, y poder así simplificar los procesos, y trámites requeridos. 
         .jumbotron-31.py-5.px-4.mb-2(data-aos="fade-left") 
-          p.mb-4.text-center.text.m-top-1 Difícilmente se pueda acceder al sector financiero con todos los beneficios que esto conlleva como por ejemplo créditos a bajas tasas como método de financiación, entre otros.
+          p.mb-4.text-center.m-top-1.p-3 Difícilmente se pueda acceder al sector financiero con todos los beneficios que esto conlleva como por ejemplo créditos a bajas tasas como método de financiación, entre otros.
         .jumbotron-32.py-5.px-4.mb-2(data-aos="fade-left") 
-          p.mb-0.text-center.text.m-top-1 Ahora bien, como la obligación de registrase en el RUT, nace de la Dirección de Impuesto y Aduanas Nacionales, se entiende que los obligados a registrasen son las personas naturales o jurídicas que tengan la condición de contribuyentes declarantes del impuesto de renta y complementarios y demás impuestos. 
+          p.mb-5.text-center.m-top-2.p-3 Ahora bien, como la obligación de registrase en el RUT, nace de la Dirección de Impuesto y Aduanas Nacionales, se entiende que los obligados a registrasen son las personas naturales o jurídicas que tengan la condición de contribuyentes declarantes del impuesto de renta y complementarios y demás impuestos. 
 
 
     p.mb-5 El artículo 555-2 del Estatuto Tributario en su PARÁGRAFO 2o. dice: “La inscripción en el Registro Único Tributario, RUT, deberá cumplirse en forma previa al inicio de la actividad económica ante las oficinas competentes de la DIAN, de las cámaras de comercio o de las demás entidades que sean facultadas para el efecto”. A continuación, se relacionan quiénes están obligados a realizar este trámite:
@@ -158,7 +158,7 @@
 
     p.mb-3 Partiendo de la base que ya se tiene clara del concepto de impuesto, a continuación, se realizará una breve descripción de los impuestos más frecuentes y la tarifa de los principales tipos de impuestos nacionales y locales en Colombia:
 
-    .row.mb-5.ps-2(data-aos="zoom-in-down")
+    .row.mb-3.ps-2(data-aos="zoom-in-down")
       .h4.mb-0.mx-3 Impuestos nacionales
       .col-lg-4.bg-color-1.px-4.py-3
         
@@ -171,7 +171,7 @@
           div(titulo="Renta")
             .row.align-items-star.justify-content-center.p-4
               .col-lg-4
-                p.mb-0 Básicamente este impuesto grava las utilidades de las actividades ordinarias realizadas por el contribuyente según el tipo.
+                p.mb-3 Básicamente este impuesto grava las utilidades de las actividades ordinarias realizadas por el contribuyente según el tipo.
               .col-lg-8  
                 .tabla-a.color-acento-contenido.mb-5 
                   table

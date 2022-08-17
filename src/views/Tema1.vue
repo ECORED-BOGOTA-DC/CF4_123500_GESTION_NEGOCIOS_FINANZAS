@@ -36,17 +36,17 @@
     .row.align-items-star.justify-content-center.p-4
       .col-lg-10
         .jumbotron-17.py-5.px-4.mb-2(data-aos="fade-left") 
-          p.mb-0.text-center.text.m-top-1 Algunos empresarios consideran que llevar la contabilidad no es un aspecto relevante para sus negocios, sino que, por el contrario, consideran que esta práctica tan solo representa un gasto obligatorio e improductivo, con base en una imposición legal de parte del gobierno nacional. 
+          p.mb-5.text-center.m-top-1 Algunos empresarios consideran que llevar la contabilidad no es un aspecto relevante para sus negocios, sino que, por el contrario, consideran que esta práctica tan solo representa un gasto obligatorio e improductivo, con base en una imposición legal de parte del gobierno nacional. 
         .jumbotron-18.py-5.px-4.mb-2(data-aos="fade-left") 
-          p.mb-4.text-center.text.m-top-1  Es muy probable que estos propietarios convivan con un sin número de problemas, como consecuencia de no llevarla en debida forma, o de la inadecuada apropiación de la información financiera. 
+          p.mb-5.text-center.m-top-1.p-4  Es muy probable que estos propietarios convivan con un sin número de problemas, como consecuencia de no llevarla en debida forma, o de la inadecuada apropiación de la información financiera. 
         .jumbotron-19.py-5.px-4.mb-2(data-aos="fade-left") 
-          p.mb-0.text-center.text.m-top-1  Como consecuencia de estas malas prácticas administrativas, se encuentran organizaciones que pueden vender de manera importante, sin embargo, pueden tener problemas de liquidez, problemas de tipo fiscal o tributario, en donde pueden enfrentarse a posibles sanciones y hasta el cierre del establecimiento de comercio.
+          p.mb-5.text-center.m-top-2.p-3  Como consecuencia de estas malas prácticas administrativas, se encuentran organizaciones que pueden vender de manera importante, sin embargo, pueden tener problemas de liquidez, problemas de tipo fiscal o tributario, en donde pueden enfrentarse a posibles sanciones y hasta el cierre del establecimiento de comercio.
         .jumbotron-20.py-5.px-4.mb-2(data-aos="fade-left") 
-          p.mb-4.text-center.text.m-top-1  No se tiene acceso a la información financiera objetiva y oportuna como base fundamental para la toma de decisiones, no se conocen las edades de la cartera que deben los clientes como tampoco de los proveedores para poder buscar un equilibrio económico en ese sentido.
+          p.mb-5.text-center.m-top-2.p-3  No se tiene acceso a la información financiera objetiva y oportuna como base fundamental para la toma de decisiones, no se conocen las edades de la cartera que deben los clientes como tampoco de los proveedores para poder buscar un equilibrio económico en ese sentido.
         .jumbotron-21.py-5.px-4.mb-2(data-aos="fade-left") 
-          p.mb-4.text-center.text.m-top-1 Difícilmente se pueda acceder al sector financiero con todos los beneficios que esto conlleva como por ejemplo créditos a bajas tasas como método de financiación, entre otros.
-        .jumbotron-22.py-5.px-4.mb-2(data-aos="fade-left") 
-          p.mb-0.text-center.text.m-top-1 Técnicamente, la contabilidad es el reconocimiento de los movimientos contables por parte de un persona natural o jurídica, es decir, incluir la información derivada de la totalidad de las operaciones que se realicen en la empresa. 
+          p.mb-5.text-center.m-top-1.p-4 Difícilmente se pueda acceder al sector financiero con todos los beneficios que esto conlleva como por ejemplo créditos a bajas tasas como método de financiación, entre otros.
+        .jumbotron-22.py-5.px-4.mb-5(data-aos="fade-left") 
+          p.mb-5.text-center.m-top-1.p-4 Técnicamente, la contabilidad es el reconocimiento de los movimientos contables por parte de un persona natural o jurídica, es decir, incluir la información derivada de la totalidad de las operaciones que se realicen en la empresa. 
 
 
     .row(data-aos="fade")
@@ -228,77 +228,77 @@
       SlyderA
         .row.justify-content-center.align-items-star.p-5
           .col-12.col-md-2.mb-3.mb-md-0
-            img.mt-3(src="@/assets/curso/images/tema1/ico_1.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
+            img(src="@/assets/curso/images/tema1/ico_1.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
           .col-12.col-md-10.mb-3.mb-md-0
             p.mb-0 <b>Entidad:</b> la entidad o ente, contiene derechos y obligaciones que se encuentran detalladas en el marco normativo contable (NIIF) y que son reconocidos por los organismos de control. Por tal razón, la empresa debe ser tratada como un ente independiente, en donde incluso a sus propietarios se les reconoce como terceros.
-          hr
+            hr
           .col-12.col-md-2.mb-3.mb-md-0
-            img.mt-3(src="@/assets/curso/images/tema1/ico_2.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
+            img(src="@/assets/curso/images/tema1/ico_2.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
           .col-12.col-md-10.mb-3.mb-md-0
             p.mb-3 <b>Equidad:</b> teniendo en cuenta que dentro de las compañías se manejan múltiples intereses, entre ellos se tiene por ejemplo los dueños, los proveedores, acreedores, deudores, sector financiero, administradores, el estado, los organismos de control, entre otros. En ese sentido, la equidad establece que se debe reflejar la información financiera de las compañías sin ningún tipo de sesgo que pudiera favorecer a algún tercero; es decir, que se reflejan todos los intereses relacionados con el desarrollo de la económica.dos por los organismos de control. Por tal razón, la empresa debe ser tratada como un ente independiente, en donde incluso a sus propietarios se les reconoce como terceros.
-          hr
+            hr
           .col-12.col-md-2.mb-3.mb-md-0
-            img.mt-3(src="@/assets/curso/images/tema1/ico_3.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
+            img(src="@/assets/curso/images/tema1/ico_3.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;")
           .col-12.col-md-10.mb-3.mb-md-0
-            p.mb-0 <b>Partida doble:</b> la base fundamental de la partida doble, indica que en la contabilidad no puede haber un movimiento que afecte dos cuentas de la misma naturaleza (débito, o crédito), el ejercicio consiste en registrar algún valor en al menos dos cuentas, una de cada naturaleza para conservar el equilibrio de la partida doble.
+            p.mt-3 <b>Partida doble:</b> la base fundamental de la partida doble, indica que en la contabilidad no puede haber un movimiento que afecte dos cuentas de la misma naturaleza (débito, o crédito), el ejercicio consiste en registrar algún valor en al menos dos cuentas, una de cada naturaleza para conservar el equilibrio de la partida doble.
 
         .row.justify-content-center.align-items-star.p-5
           .col-12.col-md-2.mb-3.mb-md-0
-            img.mt-3(src="@/assets/curso/images/tema1/ico_4.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
+            img(src="@/assets/curso/images/tema1/ico_4.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-2
           .col-12.col-md-10.mb-3.mb-md-0
-            p.mb-0 <b>Bienes económicos:</b> la contabilidad se lleva de conformidad en movimientos económicos realizadas por los entes, todos estos con conservando un sentido económico. Es decir, que en todo registro se debe asignar determinar un valor monetario, el cual debe tener relación con el mercado en que la empresa funciona.
-          hr
+            p.mt-3 <b>Bienes económicos:</b> la contabilidad se lleva de conformidad en movimientos económicos realizadas por los entes, todos estos con conservando un sentido económico. Es decir, que en todo registro se debe asignar determinar un valor monetario, el cual debe tener relación con el mercado en que la empresa funciona.
+            hr
           .col-12.col-md-2.mb-3.mb-md-0
-            img.mt-3(src="@/assets/curso/images/tema1/ico_5.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
+            img(src="@/assets/curso/images/tema1/ico_5.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
           .col-12.col-md-10.mb-3.mb-md-0
-            p.mb-0 <b>Moneda común denominador:</b> las operaciones que realiza una empresa pueden realizarse en distintas monedas. Sin embargo, es la empresa quien está obligada a determinar el tipo de moneda en la que presentará su información financiera. 
-          hr
+            p.mt-3 <b>Moneda común denominador:</b> las operaciones que realiza una empresa pueden realizarse en distintas monedas. Sin embargo, es la empresa quien está obligada a determinar el tipo de moneda en la que presentará su información financiera. 
+            hr
           .col-12.col-md-2.mb-3.mb-md-0
-            img.mt-3(src="@/assets/curso/images/tema1/ico_6.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
+            img(src="@/assets/curso/images/tema1/ico_6.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;")
           .col-12.col-md-10.mb-3.mb-md-0
-            p.mb-0 <b>Negocio en marcha:</b> cuando se constituye una empresa, se determina la duración en años de la misma, sin embargo, este tiempo establecido para que perdure la empresa, está condicionado a que la información financiera arrojada año tras año en las empresas, muestre una proyección a la misma. De lo contrario, se deberán tomar decisiones que pueden ir hasta la liquidación o extinción de las compañías.
+            p.mt-3 <b>Negocio en marcha:</b> cuando se constituye una empresa, se determina la duración en años de la misma, sin embargo, este tiempo establecido para que perdure la empresa, está condicionado a que la información financiera arrojada año tras año en las empresas, muestre una proyección a la misma. De lo contrario, se deberán tomar decisiones que pueden ir hasta la liquidación o extinción de las compañías.
          
 
-        .row.justify-content-center.align-items--star.p-5
-          .col-12.col-md-2.mb-3.mb-md-0
-            img.mt-3(src="@/assets/curso/images/tema1/ico_7.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
-          .col-12.col-md-10.mb-3.mb-md-0
-            p.mb-0 <b>Valuación al costo:</b> lo que nos indica este principio de contabilidad, es que se debe valuar al costo o al valor del costo de adquisición o producción, al momento de reconocer las operaciones financieras del negocio.
-          hr
-          .col-12.col-md-2.mb-3.mb-md-0
-            img.mt-3(src="@/assets/curso/images/tema1/ico_8.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
-          .col-12.col-md-10.mb-3.mb-md-0
-            p.mb-0 <b>Período:</b> los analistas de la información financiera de las compañías deben conocer el período o la fecha en que se presentan los estados financieros, esta puede ser mensual para efectos de seguimientos de resultados de la administración, sin embargo al final de cada año se deben presentar ante el máximo órgano para ser aprobados.  
-          hr
-          .col-12.col-md-2.mb-3.mb-md-0
-            img.mt-3(src="@/assets/curso/images/tema1/ico_9.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
-          .col-12.col-md-10.mb-3.mb-md-0
-            p.mb-0 <b>Devengado:</b> el principio devengado determina el momento o la fecha en la que nace una obligación o un derecho para la organización.
-
         .row.justify-content-center.align-items-star.p-5
           .col-12.col-md-2.mb-3.mb-md-0
-            img.mt-3(src="@/assets/curso/images/tema1/ico_10.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
+            img(src="@/assets/curso/images/tema1/ico_7.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
           .col-12.col-md-10.mb-3.mb-md-0
-            p.mb-0 <b>Objetividad:</b> el registro contable de las transacciones económicas del ente, deber manejasen en los libros de contabilidad, libres de intereses de un particular. Este principio, implica reconocer las operaciones lo más ajustadas a la realidad posibles, de tal forma, que no existan favorecimientos a ningún tercero.
-          hr
+            p.mt-3 <b>Valuación al costo:</b> lo que nos indica este principio de contabilidad, es que se debe valuar al costo o al valor del costo de adquisición o producción, al momento de reconocer las operaciones financieras del negocio.
+            hr
           .col-12.col-md-2.mb-3.mb-md-0
-            img.mt-3(src="@/assets/curso/images/tema1/ico_11.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
+            img(src="@/assets/curso/images/tema1/ico_8.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
           .col-12.col-md-10.mb-3.mb-md-0
-            p.mb-0 <b>Realización:</b> todo hecho económico conlleva a un registro contable, en donde se reconoce o una obligación o un derecho para la compañía. La realización de estos, implica reconocer o realizar un ingreso, costo o gasto, tal es el caso de los anticipos. 
-          hr
+            p.mt-3 <b>Período:</b> los analistas de la información financiera de las compañías deben conocer el período o la fecha en que se presentan los estados financieros, esta puede ser mensual para efectos de seguimientos de resultados de la administración, sin embargo al final de cada año se deben presentar ante el máximo órgano para ser aprobados.  
+            hr
           .col-12.col-md-2.mb-3.mb-md-0
-            img.mt-3(src="@/assets/curso/images/tema1/ico_12.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
+            img(src="@/assets/curso/images/tema1/ico_9.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;")
           .col-12.col-md-10.mb-3.mb-md-0
-            p.mb-0 <b>Prudencia:</b> este principio aplica en los casos en que se debe reconocer un hecho económico, pero no se puede medir con fiabilidad. Para dar una solución al tema, lo más conveniente es encontrar un mecanismo que permita encontrar un valor razonable, de conformidad la realidad económica del mercado.
+            p.mt-3 <b>Devengado:</b> el principio devengado determina el momento o la fecha en la que nace una obligación o un derecho para la organización.
 
-        .row.justify-content-center.align-items-star.p-5
+        .row.justify-content-center.align-items-center.p-5
           .col-12.col-md-2.mb-3.mb-md-0
-            img.mt-3(src="@/assets/curso/images/tema1/ico_13.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
+            img(src="@/assets/curso/images/tema1/ico_10.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
+          .col-12.col-md-10.mb-3.mb-md-0
+            p.mt-3 <b>Objetividad:</b> el registro contable de las transacciones económicas del ente, deber manejasen en los libros de contabilidad, libres de intereses de un particular. Este principio, implica reconocer las operaciones lo más ajustadas a la realidad posibles, de tal forma, que no existan favorecimientos a ningún tercero.
+            hr
+          .col-12.col-md-2.mb-3.mb-md-0
+            img(src="@/assets/curso/images/tema1/ico_11.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
+          .col-12.col-md-10.mb-3.mb-md-0
+            p.mt-3 <b>Realización:</b> todo hecho económico conlleva a un registro contable, en donde se reconoce o una obligación o un derecho para la compañía. La realización de estos, implica reconocer o realizar un ingreso, costo o gasto, tal es el caso de los anticipos. 
+            hr
+          .col-12.col-md-2.mb-3.mb-md-0
+            img(src="@/assets/curso/images/tema1/ico_12.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;")
+          .col-12.col-md-10.mb-3.mb-md-0
+            p.mt-3 <b>Prudencia:</b> este principio aplica en los casos en que se debe reconocer un hecho económico, pero no se puede medir con fiabilidad. Para dar una solución al tema, lo más conveniente es encontrar un mecanismo que permita encontrar un valor razonable, de conformidad la realidad económica del mercado.
+
+        .row.justify-content-center.align-items-center.p-5
+          .col-12.col-md-2.mb-3.mb-md-0
+            img(src="@/assets/curso/images/tema1/ico_13.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-5
           .col-12.col-md-10.mb-3.mb-md-0
             p.mb-0 <b>Uniformidad:</b> el registro de las operaciones de la compañía se debe realizar respetando el método usado en operaciones similares, el cual debe conservar relación los marcos normativos adoptados en el país. 
-          hr
+            hr
           .col-12.col-md-2.mb-3.mb-md-0
-            img.mt-3(src="@/assets/curso/images/tema1/ico_14.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
+            img(src="@/assets/curso/images/tema1/ico_14.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;")
           .col-12.col-md-10.mb-3.mb-md-0
             p.mb-0 <b>Materialidad:</b> el principio de materialidad o importancia relativa hace referencia al manejo flexible y práctico para el registro en la contabilidad, de las operaciones en aras de dirimir cualquier situación de conflicto al momento de incluirse en la contabilidad.
           
@@ -327,7 +327,7 @@
             p La dinámica contable, indica la manera en que se deben registrar las cuentas contables en la partida doble      y comprender cuáles son los movimientos que se deben realizar en la contabilidad. En esta dinámica se describe a nivel general los registros más comunes para cada grupo de cuentas, bien sean de naturaleza débito o crédito. Por ejemplo, en el caso de los activos, estos son de naturaleza débito;      es decir, aumentan por el debe o izquierda y disminuyen por el crédito o la derecha de la cuenta T. 
         .col-lg-3.mb-3.mb-lg-0(data-aos="fade-left")
           figure
-            img(src='@/assets/curso/images/tema1/img_9.svg' alt='', style="width:400px; display:block; margin:-1rem 0;") 
+            img(src='@/assets/curso/images/tema1/img_9.svg' alt='', style="width:400px; display:block; margin:-1rem 0;").mb-2
     
     p.mb-5 Sin embargo, en el activo también se encuentran algunas cuentas que su dinámica contable es a la inversa de lo aquí manifestado, tales como las amortizaciones, las depreciaciones, el deterioro, entre otras que en esencia son de naturaleza crédito y que su efecto es disminuir el valor del activo, hasta llevarlo a reflejar un valor neto del mismo. Estas cuentas son de naturaleza inversa a las cuentas del activo (débito), básicamente por que cumplen una función de disminuir una cuenta principal del activo en cada caso y finalmente generar un saldo neto de las cuentas A continuación se puede revisar cómo funciona cada una de ellas:
 
@@ -440,13 +440,13 @@
     .row.align-items-star.justify-content-center.p-4
       .col-lg-10
         .jumbotron-23.py-5.px-4.mb-2(data-aos="fade-left") 
-          p.mb-0.text-center.text.m-top-1 Medio de prueba de las transacciones financieras realizadas en las empresas.
-        .jumbotron-24.py-5.px-4.mb-2(data-aos="fade-left") 
-          p.mb-4.text-center.text.m-top-1 Respaldar cifras o datos contenidas en los presupuestos.
-        .jumbotron-25.py-5.px-4.mb-2(data-aos="fade-left") 
-          p.mb-0.text-center.text.m-top-1  Estrategia de control por parte de los entes de vigilancia.
-        .jumbotron-26.py-5.px-4.mb-2(data-aos="fade-left") 
-          p.mb-4.text-center.text.m-top-1 Confirmar información de terceros por parte de deudores o proveedores.
+          p.mb-5.text-center.m-top-1.p-5 Medio de prueba de las transacciones financieras realizadas en las empresas.
+        .jumbotron-24.py-5.px-4.mb-5(data-aos="fade-left") 
+          p.my-5.text-center.m-top-1.p-5 Respaldar cifras o datos contenidas en los presupuestos.
+        .jumbotron-25.py-5.px-5.mb-5(data-aos="fade-left") 
+          p.my-5.text-center.m-top-1.p-5  Estrategia de control por parte de los entes de vigilancia.
+        .jumbotron-26.py-5.px-4.mb-5(data-aos="fade-left") 
+          p.mb-5.text-center.m-top-1.p-5 Confirmar información de terceros por parte de deudores o proveedores.
 
     
     p.mb-5 En las empresas se encuentra una variedad de documentos contables de acuerdo a sus necesidades, sin embargo, se puede definir algunos de estos que son considerados los más comunes o habituales en las organizaciones:
@@ -455,7 +455,7 @@
       .row.justify-content-center.align-items-center.mb-3(data-aos="fade")
         .col-lg-2.mb-3
           a.botom-1.boton.color-acento-botones.indicador__container.botom(@click="modal1 = true")
-            h4.my-3 <i>1. Factura de venta</i> 
+            h4.text-center.my-3 <i>1. Factura de venta</i> 
             .indicador--click(v-if="mostrarIndicador")
             .col
               a.lnk(@click="modal1 = true") 
@@ -472,7 +472,7 @@
                   img(src='@/assets/curso/images/tema1/img_20.png', alt='Texto que describa la imagen')
         .col-lg-2.mb-3
           a.botom-1.boton.color-acento-contenido.indicador__container.botom(@click="modal2 = true")
-            h4.my-3 <i>2. Cuenta de cobro</i> 
+            h4.text-center.my-3 <i>2. Cuenta de cobro</i> 
             .indicador--click(v-if="mostrarIndicador")
             .col
               a.lnk(@click="modal1 = true") 
@@ -488,7 +488,7 @@
                   img(src='@/assets/curso/images/tema1/img_21.png', alt='Texto que describa la imagen')
         .col-lg-2.mb-3
           a.botom-1.boton.color-acento-botones.indicador__container.botom(@click="modal3 = true")
-            h4.my-3  <i>3. Recibos de caja</i> 
+            h4.text-center.my-3  <i>3. Recibos de caja</i> 
             .indicador--click(v-if="mostrarIndicador")
             .col
               a.lnk(@click="modal1 = true") 
@@ -505,7 +505,7 @@
                   img(src='@/assets/curso/images/tema1/img_22.png', alt='Texto que describa la imagen')
         .col-lg-2.mb-3
           a.botom-1.boton.color-acento-contenido.indicador__container.botom(@click="modal4 = true")
-            h4.my-3.mx-2 <i>4. Presupuestos</i> 
+            h4.text-center.my-3.mx-2 <i>4. Presupuestos</i> 
             .indicador--click(v-if="mostrarIndicador")
             .col
               a.lnk(@click="modal1 = true") 
@@ -521,7 +521,7 @@
                   img(src='@/assets/curso/images/tema1/img_23.png', alt='Texto que describa la imagen')
         .col-lg-2.mb-3
           a.botom-1.boton.color-acento-botones.indicador__container.botom(@click="modal5 = true")
-            h4 <i>5. Comprobante de ingreso</i> 
+            h4.text-center <i>5. Comprobante de ingreso</i> 
             .indicador--click(v-if="mostrarIndicador")
             .col
               a.lnk(@click="modal1 = true") 
@@ -540,7 +540,7 @@
       .row.justify-content-center.align-items-center.mb-3(data-aos="fade")
         .col-lg-2.mb-3
           a.botom-1.boton.color-acento-contenido.indicador__container.botom(@click="modal6 = true")
-            h5.px-3 <i>6. Comprobante de egreso</i> 
+            h4.text-center <i>6. Comprobante de egreso</i> 
             .indicador--click(v-if="mostrarIndicador")
             .col
               a.lnk(@click="modal1 = true") 
@@ -557,7 +557,7 @@
                   img(src='@/assets/curso/images/tema1/img_25.png', alt='Texto que describa la imagen')
         .col-lg-2.mb-3
           a.botom-1.boton.color-acento-botones.indicador__container.botom(@click="modal7 = true")
-            h4 <i>7. Consignaciones bancarias</i> 
+            h4.text-center <i>7. Consignaciones bancarias</i> 
             .indicador--click(v-if="mostrarIndicador")
             .col
               a.lnk(@click="modal1 = true") 
@@ -573,7 +573,7 @@
                   img(src='@/assets/curso/images/tema1/img_26.png', alt='Texto que describa la imagen')
         .col-lg-2.mb-3
           a.botom-1.boton.color-acento-contenido.indicador__container.botom(@click="modal8 = true")
-            h4 <i>8. Facturas de compra</i> 
+            h4.text-center <i>8. Facturas de compra</i> 
             .indicador--click(v-if="mostrarIndicador")
             .col
               a.lnk(@click="modal1 = true") 
@@ -590,7 +590,7 @@
                   img(src='@/assets/curso/images/tema1/img_27.png', alt='Texto que describa la imagen')
         .col-lg-2.mb-3
           a.botom-1.boton.color-acento-botones.indicador__container.botom(@click="modal9 = true")
-            h4.my-3.mx-3 <i>9. Notas débito</i> 
+            h4.text-center.my-3.mx-3 <i>9. Notas débito</i> 
             .indicador--click(v-if="mostrarIndicador")
             .col
               a.lnk(@click="modal1 = true") 
@@ -606,7 +606,7 @@
                   img(src='@/assets/curso/images/tema1/img_28.png', alt='Texto que describa la imagen')
         .col-lg-2.mb-3
           a.botom-1.boton.color-acento-contenido.indicador__container.botom(@click="modal10 = true")
-            h4.p-2 <i>10. Notas crédito</i> 
+            h4.text-center.p-2 <i>10. Notas crédito</i> 
             .indicador--click(v-if="mostrarIndicador")
             .col
               a.lnk(@click="modal1 = true") 
@@ -624,7 +624,7 @@
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade")
         .col-lg-2.mb-3
           a.botom-1.boton.color-acento-contenido.indicador__container.botom(@click="modal11 = true")
-            h4 <i>11. Pagos de nómina</i> 
+            h4.text-center <i>11. Pagos de nómina</i> 
             .indicador--click(v-if="mostrarIndicador")
             .col
               a.lnk(@click="modal1 = true") 
@@ -641,7 +641,7 @@
                   img(src='@/assets/curso/images/tema1/img_30.png', alt='Texto que describa la imagen')
         .col-lg-2.mb-3
           a.botom-1.boton.color-acento-botones.indicador__container.botom(@click="modal12 = true")
-            h4 <i>12. Pago de seguridad social</i> 
+            h4.text-center <i>12. Pago de seguridad social</i> 
             .indicador--click(v-if="mostrarIndicador")
             .col
               a.lnk(@click="modal1 = true") 
@@ -655,9 +655,9 @@
               .col-md-6
                 figure
                   img(src='@/assets/curso/images/tema1/img_31.png', alt='Texto que describa la imagen')
-        .col-lg-2
+        .col-lg-2.mb-3
           a.botom-1.boton.color-acento-contenido.indicador__container.botom(@click="modal13 = true")
-            h4 <i>13. Declaraciones tributarias</i> 
+            h4.text-center <i>13. Declaraciones tributarias</i> 
             .indicador--click(v-if="mostrarIndicador")
             .col
               a.lnk(@click="modal1 = true") 
@@ -674,7 +674,7 @@
                   img(src='@/assets/curso/images/tema1/img_32.png', alt='Texto que describa la imagen')
       
     .row(data-aos="fade")
-      p.my-5 A nivel general se mencionaron algunos documentos de carácter obligatorio que se utilizan de forma cotidiana en las empresas; sin embargo, es importante tener en cuenta, que dependiendo del tipo de sociedad, si es productora, comercializadora, prestadora de servicios, como también para empresas de gran tamaño o por políticas propias de la compañía, se encuentra  en la práctica que cada administración es libre de establecer los procesos y procedimientos de las empresas, y que pueden documentar de manera voluntaria esos procesos como se estime conveniente.
+      p A nivel general se mencionaron algunos documentos de carácter obligatorio que se utilizan de forma cotidiana en las empresas; sin embargo, es importante tener en cuenta, que dependiendo del tipo de sociedad, si es productora, comercializadora, prestadora de servicios, como también para empresas de gran tamaño o por políticas propias de la compañía, se encuentra  en la práctica que cada administración es libre de establecer los procesos y procedimientos de las empresas, y que pueden documentar de manera voluntaria esos procesos como se estime conveniente.
     
     Separador
 
