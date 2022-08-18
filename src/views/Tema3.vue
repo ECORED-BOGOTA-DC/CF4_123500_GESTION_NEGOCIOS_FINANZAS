@@ -129,18 +129,18 @@
 
     .row.align-items-star.justify-content-center.p-4
       .col-lg-10
-        .jumbotron-27.py-5.px-4.mb-2(data-aos="fade-left") 
+        .jumbotron-27.py-5.px-4.pb-md-2.mb-2(data-aos="fade-left") 
           p.mb-5.text-center.m-top-1.p-3 En la práctica comercial de las empresas, el RUT sirve para identificar la actividad económica de cualquier tercero, sea este deudor, proveedor y/o prestador de servicio, entre otros.
-        .jumbotron-28.py-5.px-5.mb-3(data-aos="fade-left") 
+        .jumbotron-28.py-5.px-5.pb-md-2.mb-3(data-aos="fade-left") 
           p.mb-5.text-center.m-top-2.p-2 Con los cuales cualquier persona natural o jurídica, tenga un vínculo laboral, económico, comercial o económico general, incluso ante los órganos estatales de control y vigilancia, para por medio de este documento reconocer las obligaciones fiscales que se tengan, ante el estado. 
-        .jumbotron-29.py-5.px-4.mb-2(data-aos="fade-left") 
+        .jumbotron-29.py-5.px-4.pb-md-2.mb-2(data-aos="fade-left") 
           p.mb-5.text-center.m-top-2.p-3  Y es que, gracias al RUT, la DIAN cuenta con una herramienta primordial, utilizada en sus procesos de fiscalización y auditoria en general, en donde puede encontrar información actualizada, clasificada, y en teoría confiable de todos los contribuyentes responsables inscritos en el registro. 
-        .jumbotron-30.py-5.px-4.mb-2(data-aos="fade-left") 
+        .jumbotron-30.py-5.px-4.pb-md-2.mb-2(data-aos="fade-left") 
           p.mb-5.text-center.m-top-2.p-3  Esta información le permite al estado mediante sus órganos de control autorizados, poder realizar una gestión de recaudo y control de los impuestos más eficiente y que a la vez facilita el cumplimento de las obligaciones a los sujetos pasivos del mismo, y poder así simplificar los procesos, y trámites requeridos. 
-        .jumbotron-31.py-5.px-4.mb-2(data-aos="fade-left") 
+        .jumbotron-31.py-5.px-4.pb-md-2.pb-md-2.mb-2(data-aos="fade-left") 
           p.mb-5.text-center.m-top-1.p-2.px-5 Difícilmente se pueda acceder al sector financiero con todos los beneficios que esto conlleva como por ejemplo créditos a bajas tasas como método de financiación, entre otros.
-        .jumbotron-32.py-5.px-4.mb-2(data-aos="fade-left") 
-          p.mb-5.text-center.m-top-2.p-3 Ahora bien, como la obligación de registrase en el RUT, nace de la Dirección de Impuesto y Aduanas Nacionales, se entiende que los obligados a registrasen son las personas naturales o jurídicas que tengan la condición de contribuyentes declarantes del impuesto de renta y complementarios y demás impuestos. 
+        .jumbotron-32.py-5.px-4.pb-md-2.mb-2(data-aos="fade-left") 
+          p.mb-5.text-center.m-top-3.py-4 Ahora bien, como la obligación de registrase en el RUT, nace de la Dirección de Impuesto y Aduanas Nacionales, se entiende que los obligados a registrasen son las personas naturales o jurídicas que tengan la condición de contribuyentes declarantes del impuesto de renta y complementarios y demás impuestos. 
 
 
     p.mb-5 El artículo 555-2 del Estatuto Tributario en su PARÁGRAFO 2o. dice: “La inscripción en el Registro Único Tributario, RUT, deberá cumplirse en forma previa al inicio de la actividad económica ante las oficinas competentes de la DIAN, de las cámaras de comercio o de las demás entidades que sean facultadas para el efecto”. A continuación, se relacionan quiénes están obligados a realizar este trámite:

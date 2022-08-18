@@ -1,9 +1,44 @@
+.banner-principal-decorativo
+  &-1
+    animation: float1 3.5s ease-in-out infinite alternate
+    position: absolute
+    top: 60%
+    right: 70%
+  &-2
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 60%
+    right: 50%
+  &-3
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 40%
+    right: 30%
+
+@keyframes float1
+  0%
+    transform: translateY(20px)
+
+  100%
+    transform: translateY(0px)
+  
 .banner-interno__fondo
   background-image: url("../assets/curso/images/header/interno.svg") !important
   background-repeat: no-repeat 
 
+
+figure, picture, img, svg 
+  margin: 0
+  width: 70%
+  max-width: 100%
+
 .cs
   overflow-y: hidden
+
+
+  font-style: normal
+
+
 
 .titulo-principal__numero 
   min-width: 45px
@@ -324,7 +359,7 @@ hr:not([size])
 
 .jumbotron-29
   background-image: url("../assets/curso/images/tema3/back_list_3.svg") !important
-  background-size: 105%
+  background-size: 100%
   background-repeat: no-repeat !important
   @media (max-width: 412px)  
     background-image: url("../assets/curso/images/tema1/back_list_new_2.svg") !important
@@ -372,11 +407,11 @@ hr:not([size])
   background-size: 105%
   background-repeat: no-repeat !important
   @media (max-width: 412px)  
-    background-image: url("../assets/curso/images/tema1/back_list_new_2.svg") !important
+    background-image: url("../assets/curso/images/tema3/back_list_new_2.svg") !important
     background-size: 100%
     background-repeat: no-repeat !important
   @media (max-width: 397px)  
-    background-image: url("../assets/curso/images/tema1/back_list_new_2.svg") !important
+    background-image: url("../assets/curso/images/tema3/back_list_new_2.svg") !important
     background-size: 100%
     background-repeat: no-repeat !important
   @media (max-width: 992px)  

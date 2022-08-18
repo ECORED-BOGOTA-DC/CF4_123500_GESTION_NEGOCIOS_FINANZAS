@@ -35,17 +35,17 @@
     
     .row.align-items-star.justify-content-center.p-4
       .col-lg-10
-        .jumbotron-17.py-5.px-4.mb-0(data-aos="fade-left") 
+        .jumbotron-17.py-5.px-4.pb-md-2.mb-0(data-aos="fade-left") 
           p.mb-5.text-center.m-top-2.py-2  Algunos empresarios consideran que llevar la contabilidad no es un aspecto relevante para sus negocios, sino que, por el contrario, consideran que esta práctica tan solo representa un gasto obligatorio e improductivo, con base en una imposición legal de parte del gobierno nacional. 
-        .jumbotron-18.py-5.px-4.mb-0(data-aos="fade-left") 
+        .jumbotron-18.py-5.px-4.pb-md-2.mb-0(data-aos="fade-left") 
           p.mb-5.text-center.m-top-2.p-4  Es muy probable que estos propietarios convivan con un sin número de problemas, como consecuencia de no llevarla en debida forma, o de la inadecuada apropiación de la información financiera. 
-        .jumbotron-19.py-4.px-3.mb-0(data-aos="fade-left") 
+        .jumbotron-19.py-4.px-3.pb-md-2.mb-0(data-aos="fade-left") 
           p.mb-5.text-center.m-top-3.py-5  Como consecuencia de estas malas prácticas administrativas, se encuentran organizaciones que pueden vender de manera importante, sin embargo, pueden tener problemas de liquidez, problemas de tipo fiscal o tributario, en donde pueden enfrentarse a posibles sanciones y hasta el cierre del establecimiento de comercio.
-        .jumbotron-20.py-5.px-4.mb-0(data-aos="fade-left") 
+        .jumbotron-20.py-5.px-4.pb-md-2.mb-0(data-aos="fade-left") 
           p.mb-5.text-center.m-top-3.p-3  No se tiene acceso a la información financiera objetiva y oportuna como base fundamental para la toma de decisiones, no se conocen las edades de la cartera que deben los clientes como tampoco de los proveedores para poder buscar un equilibrio económico en ese sentido.
-        .jumbotron-21.py-5.px-4.mb-0(data-aos="fade-left") 
+        .jumbotron-21.py-5.px-4.pb-md-2.mb-0(data-aos="fade-left") 
           p.mb-5.text-center.m-top-2.p-4 Difícilmente se pueda acceder al sector financiero con todos los beneficios que esto conlleva como por ejemplo créditos a bajas tasas como método de financiación, entre otros.
-        .jumbotron-22.py-5.px-3.mb-3(data-aos="fade-left") 
+        .jumbotron-22.py-5.px-3.pb-md-2.mb-3(data-aos="fade-left") 
           p.mb-3.text-center.m-top.p Técnicamente, la contabilidad es el reconocimiento de los movimientos contables por parte de un persona natural o jurídica, es decir, incluir la información derivada de la totalidad de las operaciones que se realicen en la empresa. 
 
 
@@ -439,13 +439,13 @@
     
     .row.align-items-star.justify-content-center.p-4
       .col-lg-10
-        .jumbotron-23.py-4.px-4.mb-2(data-aos="fade-left") 
+        .jumbotron-23.py-4.px-4.pb-md-2.mb-2(data-aos="fade-left") 
           p.mb-0.text-center.m-top-3.p-5 Medio de prueba de las transacciones financieras realizadas en las empresas.
-        .jumbotron-24.py-5.px-4.mb-2(data-aos="fade-left") 
+        .jumbotron-24.py-5.px-4.pb-md-2.mb-2(data-aos="fade-left") 
           p.mb-0.text-center.m-top-3.p-4 Respaldar cifras o datos contenidas en los presupuestos.
-        .jumbotron-25.py-5.px-5.mb-2(data-aos="fade-left") 
+        .jumbotron-25.py-5.px-5.pb-md-2.mb-2(data-aos="fade-left") 
           p.mb-0.text-center.m-top-1.p-2 Estrategia de control por parte de los entes de vigilancia.
-        .jumbotron-26.py-5.px-4.mb-0(data-aos="fade-left") 
+        .jumbotron-26.py-5.px-4.pb-md-2.mb-0(data-aos="fade-left") 
           p.mb-0.text-center.m-top-3.p-4 Confirmar información de terceros por parte de deudores o proveedores.
 
     
@@ -455,7 +455,7 @@
       .row.justify-content-center.align-items-center.mb-3(data-aos="fade")
         .col-lg-2.mb-3
           a.botom-1.boton.color-acento-botones.indicador__container.botom(@click="modal1 = true")
-            h4.text-center.my-3 <i>1. Factura de venta</i> 
+            h4.text-center.my-2 1. Factura de venta
             .indicador--click(v-if="mostrarIndicador")
             .col
               a.lnk(@click="modal1 = true") 
@@ -472,7 +472,7 @@
                   img(src='@/assets/curso/images/tema1/img_20.png', alt='Texto que describa la imagen')
         .col-lg-2.mb-3
           a.botom-1.boton.color-acento-contenido.indicador__container.botom(@click="modal2 = true")
-            h4.text-center.my-3 <i>2. Cuenta de cobro</i> 
+            h4.text-center.my-3 2. Cuenta de cobro
             .indicador--click(v-if="mostrarIndicador")
             .col
               a.lnk(@click="modal1 = true") 
@@ -488,7 +488,7 @@
                   img(src='@/assets/curso/images/tema1/img_21.png', alt='Texto que describa la imagen')
         .col-lg-2.mb-3
           a.botom-1.boton.color-acento-botones.indicador__container.botom(@click="modal3 = true")
-            h4.text-center.my-3  <i>3. Recibos de caja</i> 
+            h4.text-center.my-3  3. Recibos de caja 
             .indicador--click(v-if="mostrarIndicador")
             .col
               a.lnk(@click="modal1 = true") 
@@ -505,7 +505,7 @@
                   img(src='@/assets/curso/images/tema1/img_22.png', alt='Texto que describa la imagen')
         .col-lg-2.mb-3
           a.botom-1.boton.color-acento-contenido.indicador__container.botom(@click="modal4 = true")
-            h4.text-center.my-3.mx-2 <i>4. Presupuestos</i> 
+            h4.text-center.my-3.mx-2 4. Presupuestos 
             .indicador--click(v-if="mostrarIndicador")
             .col
               a.lnk(@click="modal1 = true") 
@@ -521,7 +521,7 @@
                   img(src='@/assets/curso/images/tema1/img_23.png', alt='Texto que describa la imagen')
         .col-lg-2.mb-3
           a.botom-1.boton.color-acento-botones.indicador__container.botom(@click="modal5 = true")
-            h4.text-center <i>5. Comprobante de ingreso</i> 
+            h4.text-center 5. Comprobante de ingreso
             .indicador--click(v-if="mostrarIndicador")
             .col
               a.lnk(@click="modal1 = true") 
@@ -540,7 +540,7 @@
       .row.justify-content-center.align-items-center.mb-3(data-aos="fade")
         .col-lg-2.mb-3
           a.botom-1.boton.color-acento-contenido.indicador__container.botom(@click="modal6 = true")
-            h4.text-center <i>6. Comprobante de egreso</i> 
+            h4.text-center 6. Comprobante de egreso
             .indicador--click(v-if="mostrarIndicador")
             .col
               a.lnk(@click="modal1 = true") 
@@ -557,7 +557,7 @@
                   img(src='@/assets/curso/images/tema1/img_25.png', alt='Texto que describa la imagen')
         .col-lg-2.mb-3
           a.botom-1.boton.color-acento-botones.indicador__container.botom(@click="modal7 = true")
-            h4.text-center <i>7. Consignaciones bancarias</i> 
+            h4.text-center 7. Consignaciones bancarias
             .indicador--click(v-if="mostrarIndicador")
             .col
               a.lnk(@click="modal1 = true") 
@@ -573,7 +573,7 @@
                   img(src='@/assets/curso/images/tema1/img_26.png', alt='Texto que describa la imagen')
         .col-lg-2.mb-3
           a.botom-1.boton.color-acento-contenido.indicador__container.botom(@click="modal8 = true")
-            h4.text-center <i>8. Facturas de compra</i> 
+            h4.text-center 8. Facturas de compra 
             .indicador--click(v-if="mostrarIndicador")
             .col
               a.lnk(@click="modal1 = true") 
@@ -590,7 +590,7 @@
                   img(src='@/assets/curso/images/tema1/img_27.png', alt='Texto que describa la imagen')
         .col-lg-2.mb-3
           a.botom-1.boton.color-acento-botones.indicador__container.botom(@click="modal9 = true")
-            h4.text-center.my-3.mx-3 <i>9. Notas débito</i> 
+            h4.text-center.my-2.mx-3 9. Notas débito 
             .indicador--click(v-if="mostrarIndicador")
             .col
               a.lnk(@click="modal1 = true") 
@@ -606,7 +606,7 @@
                   img(src='@/assets/curso/images/tema1/img_28.png', alt='Texto que describa la imagen')
         .col-lg-2.mb-3
           a.botom-1.boton.color-acento-contenido.indicador__container.botom(@click="modal10 = true")
-            h4.text-center.p-2 <i>10. Notas crédito</i> 
+            h4.text-center.py-2.mb-2 10. Notas crédito
             .indicador--click(v-if="mostrarIndicador")
             .col
               a.lnk(@click="modal1 = true") 
@@ -624,7 +624,7 @@
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade")
         .col-lg-2.mb-3
           a.botom-1.boton.color-acento-contenido.indicador__container.botom(@click="modal11 = true")
-            h4.text-center <i>11. Pagos de nómina</i> 
+            h4.text-center 11. Pagos de nómina 
             .indicador--click(v-if="mostrarIndicador")
             .col
               a.lnk(@click="modal1 = true") 
@@ -641,7 +641,7 @@
                   img(src='@/assets/curso/images/tema1/img_30.png', alt='Texto que describa la imagen')
         .col-lg-2.mb-3
           a.botom-1.boton.color-acento-botones.indicador__container.botom(@click="modal12 = true")
-            h4.text-center <i>12. Pago de seguridad social</i> 
+            h4.text-center 12. Pago de seguridad social 
             .indicador--click(v-if="mostrarIndicador")
             .col
               a.lnk(@click="modal1 = true") 
@@ -657,7 +657,7 @@
                   img(src='@/assets/curso/images/tema1/img_31.png', alt='Texto que describa la imagen')
         .col-lg-2.mb-3
           a.botom-1.boton.color-acento-contenido.indicador__container.botom(@click="modal13 = true")
-            h4.text-center <i>13. Declaraciones tributarias</i> 
+            h4.text-center 13. Declaraciones tributarias
             .indicador--click(v-if="mostrarIndicador")
             .col
               a.lnk(@click="modal1 = true") 
