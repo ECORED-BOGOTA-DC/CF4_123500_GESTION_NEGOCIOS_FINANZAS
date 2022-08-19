@@ -9,7 +9,7 @@ export default {
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/images/header/1.svg'),
+        imagen: require('@/assets/curso/images/header/1_1.svg'),
       },
       {
         clases: ['banner-principal-decorativo-2', 'd-none', 'd-lg-block'],
