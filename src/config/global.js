@@ -3,13 +3,13 @@ export default {
     componenteFormativo: 'Fundamentos de contabilidad y tributaria',
     descripcionCurso:
       'El manejo de la contabilidad es la base fundamental para el conocimiento financiero de las organizaciones. Además de dar cumplimiento a las Normas Internacionales de Información Financiera (NIIF), a su vez esta información, se convierte en la materia prima fundamental para la toma de decisiones por parte de los administradores de las compañías.',
-    imagenBannerPrincipal: require('@/assets/curso/images/header/banner-principal_2.svg'),
+    imagenBannerPrincipal: require('@/assets/curso/images/header/banner-principal_3.svg'),
     fondoBannerPrincipal: require('@/assets/curso/images/header/fondo-banner-principal.svg'),
     fondoBannerInterno: require('@/assets/curso/images/header/interno.svg'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/images/header/1_1.svg'),
+        imagen: require('@/assets/curso/images/header/1.svg'),
       },
       {
         clases: ['banner-principal-decorativo-2', 'd-none', 'd-lg-block'],

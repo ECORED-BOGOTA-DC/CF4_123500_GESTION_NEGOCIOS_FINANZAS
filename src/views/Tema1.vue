@@ -655,7 +655,7 @@
               .col-md-6
                 figure
                   img(src='@/assets/curso/images/tema1/img_31.png', alt='Texto que describa la imagen')
-        .col-lg-2.mb-3
+        .col-lg-2.mb-0
           a.botom-1.boton.color-acento-contenido.indicador__container.botom(@click="modal13 = true")
             h4.text-center 13. Declaraciones tributarias
             .indicador--click(v-if="mostrarIndicador")

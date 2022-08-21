@@ -140,7 +140,7 @@
         .jumbotron-31.py-5.px-4.pb-md-2.pb-md-2.mb-2(data-aos="fade-left") 
           p.mb-5.text-center.m-top-1.p-2.px-5 Difícilmente se pueda acceder al sector financiero con todos los beneficios que esto conlleva como por ejemplo créditos a bajas tasas como método de financiación, entre otros.
         .jumbotron-32.py-5.px-4.pb-md-2.mb-2(data-aos="fade-left") 
-          p.mb-5.text-center.m-top-3.py-4 Ahora bien, como la obligación de registrase en el RUT, nace de la Dirección de Impuesto y Aduanas Nacionales, se entiende que los obligados a registrasen son las personas naturales o jurídicas que tengan la condición de contribuyentes declarantes del impuesto de renta y complementarios y demás impuestos. 
+          p.mb-5.text-center.m-top-2.py-4 Ahora bien, como la obligación de registrase en el RUT, nace de la Dirección de Impuesto y Aduanas Nacionales, se entiende que los obligados a registrasen son las personas naturales o jurídicas que tengan la condición de contribuyentes declarantes del impuesto de renta y complementarios y demás impuestos. 
 
 
     p.mb-5 El artículo 555-2 del Estatuto Tributario en su PARÁGRAFO 2o. dice: “La inscripción en el Registro Único Tributario, RUT, deberá cumplirse en forma previa al inicio de la actividad económica ante las oficinas competentes de la DIAN, de las cámaras de comercio o de las demás entidades que sean facultadas para el efecto”. A continuación, se relacionan quiénes están obligados a realizar este trámite:
