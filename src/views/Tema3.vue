@@ -147,7 +147,7 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/2zWM4v9s6DE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     p.mb-3 Finalmente, si se va a realizar el trámite de manera presencial ante la DIAN, debe llevar la cédula de ciudadanía en original con su respectiva fotocopia ampliada al 150%, allí de manera permanente y de acuerdo a las necesidades, se debe actualizar la información cuando la ocasión lo amerite, también se debe mencionar la actividad de comercio a la cual se dedica la persona natural o jurídica, y al final se le hace entrega del RUT, el cual se recomienda exhibir en el domicilio en donde se desarrolla la actividad comercial. Se debe recordar que este trámite no tiene costo alguno.
 
