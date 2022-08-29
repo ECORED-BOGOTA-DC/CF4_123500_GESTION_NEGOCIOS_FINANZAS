@@ -60,7 +60,7 @@
                 .col.mb-3.mb-sm-0
                   h3.text-white.text-center Estados financieros
                 .col-12.col-sm-4.col-lg-4
-                  a.boton.color-custom-7(:href="obtenerLink('downloads/Estados financieros.pdf')" target="_blank")
+                  a.boton.color-custom-7(:href="obtenerLink('downloads/Estadosfinancieros.pdf')" target="_blank")
                     span Descargar
                     .row
                       .col-auto
@@ -98,7 +98,7 @@
                 .jumbotron-2.py-5.px-5.pb-md-2.mb-2
                   p.mb-5.text-center  A este grupo pertenece todo lo relacionado con adquisición de dineros para ser utilizados por la empresa. Estos dineros pueden surgir de obligaciones con terceros, como por ejemplo de los bancos, como también, de sus propietarios, los cuales figuran directamente en las cuentas de patrimonio de la entidad, según sea el caso.
                 .jumbotron-3.py-5.px-5.pb-md-2.mb-0
-                  p.mb-5.text-center.mg-top Es importante tener en cuenta que en el grupo de los pasivos, no se pueden incluir, los pasivos laborales, los impuestos, los acreedores, proveedores, entre otros, pues estos pertenecen al grupo de actividades de operación, de las actividades más frecuentes en este estado de flujos de efectivo, encontramos las nuevas capitalizaciones que se realicen por parte de los acciones o ingresos por venta de acciones para nuevos propietarios de la compañía.
+                  p.mb-5.text-center.mg-top Es importante tener en cuenta que en el grupo de los pasivos, no se pueden incluir, los pasivos laborales, los impuestos, los acreedores, proveedores, entre otros, pues estos pertenecen al grupo de actividades de operación, de las actividades más frecuentes en este estado de flujos de efectivo, encontramos las nuevas capitalizaciones que se realicen por parte de las acciones o ingresos por venta de acciones para nuevos propietarios de la compañía.
               .col-lg-4
                 img(src='@/assets/curso/images/tema2/img_5.svg')
                 
@@ -115,13 +115,13 @@
       SlyderA(tipo="b")
         .row.justify-content-center.align-items-star.p-3
           .col-lg-4
-            h4.mb-5 las hojas electrónicas financieras
+            h4.mb-5 Las hojas electrónicas financieras
             p.mb-3 Se utilizan permanentemente en las empresas por parte de los administradores, para medir la gestión organizacional y de negocios en general. Dentro de los múltiples beneficios de esta herramienta, encontramos por ejemplo que, a falta de <i>software</i> contable, podemos llevar la contabilidad de los negocios o empresas, podemos crear bases de datos, se pueden formular y realizar cálculos aritméticos, se pueden generar reportes gerenciales para juntas directivas, graficas, análisis financieros, análisis estadísticos, entre otras virtudes de esta herramienta ofimática.
           .col-lg-8
             img(src="@/assets/curso/images/tema2/img_6.png").mb-3
         .row.justify-content-center.align-items-star.p-3
           .col-lg-4
-            h4.mb-5 <i>Softwares contables</i>
+            h4.mb-5 <i>Software contable</i>
             p.mb-3 Siendo esta ayuda lo suficientemente práctica, con el pasar de los años muy a pesar de los avances tecnológicos y la creación de <i>software</i> muy completos y diseñados inclusos a las medidas de las necesidades de las personas naturales y jurídicas, en donde se consideran en detalle los procesos particulares, aun así, este tipo de <i>software</i> no pierden vigencia en las empresas, especialmente porque también se han venido actualizando y complementando, conservando la preferencia de los usuarios. 
           .col-lg-8
             img(src="@/assets/curso/images/tema2/img_7.png").mb-3

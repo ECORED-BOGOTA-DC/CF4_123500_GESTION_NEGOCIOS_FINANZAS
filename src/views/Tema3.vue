@@ -140,7 +140,7 @@
         .jumbotron-31.py-5.px-4.pb-md-2.pb-md-2.mb-2(data-aos="fade-left") 
           p.mb-5.text-center.m-top-1.p-2.px-5 Difícilmente se pueda acceder al sector financiero con todos los beneficios que esto conlleva como por ejemplo créditos a bajas tasas como método de financiación, entre otros.
         .jumbotron-32.py-5.px-4.pb-md-2.mb-2(data-aos="fade-left") 
-          p.mb-5.text-center.m-top-2.py-4 Ahora bien, como la obligación de registrase en el RUT, nace de la Dirección de Impuesto y Aduanas Nacionales, se entiende que los obligados a registrasen son las personas naturales o jurídicas que tengan la condición de contribuyentes declarantes del impuesto de renta y complementarios y demás impuestos. 
+          p.mb-5.text-center.m-top-2.py-4 Ahora bien, como la obligación de registrase en el RUT, nace de la Dirección de Impuesto y Aduanas Nacionales, se entiende que los obligados a registrase son las personas naturales o jurídicas que tengan la condición de contribuyentes declarantes del impuesto de renta y complementarios y demás impuestos. 
 
 
     p.mb-5 El artículo 555-2 del Estatuto Tributario en su PARÁGRAFO 2o. dice: “La inscripción en el Registro Único Tributario, RUT, deberá cumplirse en forma previa al inicio de la actividad económica ante las oficinas competentes de la DIAN, de las cámaras de comercio o de las demás entidades que sean facultadas para el efecto”. A continuación, se relacionan quiénes están obligados a realizar este trámite:
@@ -156,14 +156,14 @@
     #t_3_2.titulo-segundo
       .h2 3.2 Impuestos
 
-    p.mb-3 Partiendo de la base que ya se tiene clara del concepto de impuesto, a continuación, se realizará una breve descripción de los impuestos más frecuentes y la tarifa de los principales tipos de impuestos nacionales y locales en Colombia:
+    p.mb-3 Partiendo de la base que ya se tiene claro el concepto de impuesto, a continuación, se realizará una breve descripción de los impuestos más frecuentes y la tarifa de los principales tipos de impuestos nacionales y locales en Colombia:
 
     .row.mb-3.ps-2(data-aos="zoom-in-down")
       .h4.mb-0.mx-3 Impuestos nacionales
       .col-lg-4.bg-color-1.px-4.py-3
         
 
-    p.mb-5 Este grupo lo comprenden los impuestos cuyo recaudo está en cabeza de la entidad que designe el gobierno nacional. En Colombia la tarifa general del impuesto al valor agregado es del 19%, según lo consagra el artículo 468 del estatuto tributario, que fue modificado por la ley 1819 de 2016. Sin embargo, el Estatuto Tributario, contempla tarifas preferenciales del 5% y del 0%, consideradas excepciones a la regla. En el siguiente recurso, se podrá encontrar los diferentes tipos de impuestos nacionales: 
+    p.mb-5 Este grupo lo comprenden los impuestos cuyo recaudo está en cabeza de la entidad que designe el gobierno nacional. En Colombia la tarifa general del impuesto al valor agregado es del 19 %, según lo consagra el artículo 468 del estatuto tributario, que fue modificado por la ley 1819 de 2016. Sin embargo, el Estatuto Tributario, contempla tarifas preferenciales del 5 % y del 0 %, consideradas excepciones a la regla. En el siguiente recurso, se podrá encontrar los diferentes tipos de impuestos nacionales: 
 
     .row.aling.mb-3
       .col-lg-10
@@ -208,7 +208,8 @@
               .col-lg-5
                 p.mb-3 Corresponden a las ganancias provenientes de actividades no contempladas en las operaciones ordinarias de las empresas.
                 
-                p.mb-3 Es decir, ingresos que resulten ocnpersonas aturales asi como onalmente más no de manera constante tanto para las para las personas jurídicas. Las tarifas son del 10% y del 20% según los siguientes criterios:
+                p.mb-3 Es decir, ingresos que resulten ocasionalmente más no de manera constante tanto para las personas naturales como para las personas jurídicas. Las tarifas son del 10 % y del 20 % según los siguientes criterios:
+
               .col-lg-7
                 img(src='@/assets/curso/images/tema3/fig_9.svg')
 
@@ -268,7 +269,7 @@
       .py-3.py-md-4.mg-top-2(titulo="Ejemplo contribuciones")
         .row.justify-content-center.align-items-center.p-4
           .col-12.col-md-7.mb-3.mb-md-0
-            p.mb-0 Un ejemplo claro de contribución es la valorización, que se genera por normalmente por efectos a la realización de obras públicas cerca de las construcciones o edificaciones poseídas por la persona natural o jurídica, así las cosas, se interpreta que esta obra genera un mayor valor sobre el activo poseído, y por consiguiente se configura la contribución por valorización.
+            p.mb-0 Un ejemplo claro de contribución es la valorización, que se genera normalmente por efectos a la realización de obras públicas cerca de las construcciones o edificaciones poseídas por la persona natural o jurídica, así las cosas, se interpreta que esta obra genera un mayor valor sobre el activo poseído, y por consiguiente se configura la contribución por valorización.
           .col-12.col-md-5.mb-3.mb-md-0
             img(src="@/assets/curso/images/tema3/img_3.png").m-auto
 
@@ -282,7 +283,7 @@
       .py-3.py-md-4.mg-top-2(titulo="Ejemplo tasas")
         .row.justify-content-center.align-items-center.p-4
           .col-12.col-md-7.mb-3.mb-md-0
-            p.mb-0 Como ejemplo de tasas encontramos los peajes, sobretasa a la gasolina, entre otros servicios que presta en Estado. En el caso de los municipios encontramos las tasas que se cobran por concepto de alumbrado público, aseo, entre otras.
+            p.mb-0 Como ejemplo de tasas encontramos los peajes, sobretasa a la gasolina, entre otros servicios que presta el Estado. En el caso de los municipios encontramos las tasas que se cobran por concepto de alumbrado público, aseo, entre otras.
           .col-12.col-md-5.mb-3.mb-md-0
             img(src="@/assets/curso/images/tema3/img_5.png").m-auto
 

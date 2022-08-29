@@ -235,7 +235,7 @@
           .col-12.col-md-2.mb-3.mb-md-0
             img(src="@/assets/curso/images/tema1/ico_2.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
           .col-12.col-md-10.mb-3.mb-md-0
-            p.mb-3 <b>Equidad:</b> teniendo en cuenta que dentro de las compañías se manejan múltiples intereses, entre ellos se tiene por ejemplo los dueños, los proveedores, acreedores, deudores, sector financiero, administradores, el estado, los organismos de control, entre otros. En ese sentido, la equidad establece que se debe reflejar la información financiera de las compañías sin ningún tipo de sesgo que pudiera favorecer a algún tercero; es decir, que se reflejan todos los intereses relacionados con el desarrollo de la económica.dos por los organismos de control. Por tal razón, la empresa debe ser tratada como un ente independiente, en donde incluso a sus propietarios se les reconoce como terceros.
+            p.mb-3 <b>Equidad:</b> teniendo en cuenta que dentro de las compañías se manejan múltiples intereses, entre ellos se tiene por ejemplo los dueños, los proveedores, acreedores, deudores, sector financiero, administradores, el estado, los organismos de control, entre otros. En ese sentido, la equidad establece que se debe reflejar la información financiera de las compañías sin ningún tipo de sesgo que pudiera favorecer a algún tercero; es decir, que se reflejan todos los intereses relacionados con el desarrollo de la económica.
             hr
           .col-12.col-md-2.mb-3.mb-md-0
             img(src="@/assets/curso/images/tema1/ico_3.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;")
@@ -246,7 +246,7 @@
           .col-12.col-md-2.mb-3.mb-md-0
             img(src="@/assets/curso/images/tema1/ico_4.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-2
           .col-12.col-md-10.mb-3.mb-md-0
-            p.mt-3 <b>Bienes económicos:</b> la contabilidad se lleva de conformidad en movimientos económicos realizadas por los entes, todos estos con conservando un sentido económico. Es decir, que en todo registro se debe asignar determinar un valor monetario, el cual debe tener relación con el mercado en que la empresa funciona.
+            p.mt-3 <b>Bienes económicos:</b> la contabilidad se lleva de conformidad en movimientos económicos realizadas por los entes, todos estos conservando un sentido económico. Es decir, que en todo registro se debe asignar determinar un valor monetario, el cual debe tener relación con el mercado en que la empresa funciona.
             hr
           .col-12.col-md-2.mb-3.mb-md-0
             img(src="@/assets/curso/images/tema1/ico_5.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
@@ -279,7 +279,7 @@
           .col-12.col-md-2.mb-3.mb-md-0
             img(src="@/assets/curso/images/tema1/ico_10.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
           .col-12.col-md-10.mb-3.mb-md-0
-            p.mt-3 <b>Objetividad:</b> el registro contable de las transacciones económicas del ente, deber manejasen en los libros de contabilidad, libres de intereses de un particular. Este principio, implica reconocer las operaciones lo más ajustadas a la realidad posibles, de tal forma, que no existan favorecimientos a ningún tercero.
+            p.mt-3 <b>Objetividad:</b> el registro contable de las transacciones económicas del ente, deber manejarse en los libros de contabilidad, libres de intereses de un particular. Este principio, implica reconocer las operaciones lo más ajustadas a la realidad posibles, de tal forma, que no existan favorecimientos a ningún tercero.
             hr
           .col-12.col-md-2.mb-3.mb-md-0
             img(src="@/assets/curso/images/tema1/ico_11.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
@@ -289,7 +289,7 @@
           .col-12.col-md-2.mb-3.mb-md-0
             img(src="@/assets/curso/images/tema1/ico_12.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;")
           .col-12.col-md-10.mb-3.mb-md-0
-            p.mt-3 <b>Prudencia:</b> este principio aplica en los casos en que se debe reconocer un hecho económico, pero no se puede medir con fiabilidad. Para dar una solución al tema, lo más conveniente es encontrar un mecanismo que permita encontrar un valor razonable, de conformidad la realidad económica del mercado.
+            p.mt-3 <b>Prudencia:</b> este principio aplica en los casos en que se debe reconocer un hecho económico, pero no se puede medir con fiabilidad. Para dar una solución al tema, lo más conveniente es encontrar un mecanismo que permita encontrar un valor razonable, conformidad a la realidad económica del mercado.
 
         .row.justify-content-center.align-items-center.p-5
           .col-12.col-md-2.mb-3.mb-md-0
@@ -329,7 +329,7 @@
           figure
             img(src='@/assets/curso/images/tema1/img_9.svg' alt='', style="width:400px; display:block; margin:-1rem 0;").mb-2
     
-    p.mb-5 Sin embargo, en el activo también se encuentran algunas cuentas que su dinámica contable es a la inversa de lo aquí manifestado, tales como las amortizaciones, las depreciaciones, el deterioro, entre otras que en esencia son de naturaleza crédito y que su efecto es disminuir el valor del activo, hasta llevarlo a reflejar un valor neto del mismo. Estas cuentas son de naturaleza inversa a las cuentas del activo (débito), básicamente por que cumplen una función de disminuir una cuenta principal del activo en cada caso y finalmente generar un saldo neto de las cuentas A continuación se puede revisar cómo funciona cada una de ellas:
+    p.mb-5 Sin embargo, en el activo también se encuentran algunas cuentas que su dinámica contable es a la inversa de lo aquí manifestado, tales como las amortizaciones, las depreciaciones, el deterioro, entre otras que en esencia son de naturaleza crédito y que su efecto es disminuir el valor del activo, hasta llevarlo a reflejar un valor neto del mismo. Estas cuentas son de naturaleza inversa a las cuentas del activo (débito), básicamente por que cumplen una función de disminuir una cuenta principal del activo en cada caso y finalmente generar un saldo neto de las cuentas. A continuación se puede revisar cómo funciona cada una de ellas:
 
     .tarjeta--container.row.mb-5(data-aos="fade")
       .col-md.tarjeta.color-custom-3.p-5
