@@ -279,7 +279,7 @@
           .col-12.col-md-2.mb-3.mb-md-0
             img(src="@/assets/curso/images/tema1/ico_10.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
           .col-12.col-md-10.mb-3.mb-md-0
-            p.mt-3 <b>Objetividad:</b> el registro contable de las transacciones económicas del ente, deber manejarse en los libros de contabilidad, libres de intereses de un particular. Este principio, implica reconocer las operaciones lo más ajustadas a la realidad posibles, de tal forma, que no existan favorecimientos a ningún tercero.
+            p.mt-3 <b>Objetividad:</b> el registro contable de las transacciones económicas del ente, debe manejarse en los libros de contabilidad, libres de intereses de un particular. Este principio, implica reconocer las operaciones lo más ajustadas a la realidad posibles, de tal forma, que no existan favorecimientos a ningún tercero.
             hr
           .col-12.col-md-2.mb-3.mb-md-0
             img(src="@/assets/curso/images/tema1/ico_11.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
